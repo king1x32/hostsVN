@@ -35,10 +35,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: |
-            - 'option/king1x32*.json'
-            - 'option/king1x32*.srs'
-            - 'option/king1x32*.yaml'
-            - 'option/king1x32*.mrs'
+            - 'option/king1x32*'
           default_author: github_actor
           message: "Cập nhật rule_set binary: ${{ env.DATE }}"
           push: true
