@@ -1,0 +1,51 @@
+name: Auto-generate singbox rule_set binary
+on:
+  push:
+    branches: [master]
+    paths: [.github/workflows/**, "**.sh"]
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: stable
+          cache: false
+      - name: Generate singbox rule_set source
+        shell: bash
+        run: |
+          chmod +x makefile.sh
+          bash ./makefile.sh
+      - name: Generate singbox rule_set binary
+        shell: bash
+        run: |
+          chmod +x get_binary.sh
+          bash ./get_binary.sh
+      - name: Generate date
+        run: echo "DATE=$(TZ='Asia/Ho_Chi_Minh' date +"%Y.%m.%d-%H.%M.%S")" >> $GITHUB_ENV
+      - name: Commit rule_set binary
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: |
+            - 'option/king1x32*.json'
+            - 'option/king1x32*.srs'
+            - 'option/king1x32*.yaml'
+            - 'option/king1x32*.mrs'
+          default_author: github_actor
+          message: "Cập nhật rule_set binary: ${{ env.DATE }}"
+          push: true
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 2

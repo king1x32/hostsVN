@@ -11,26 +11,31 @@ Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt
 ## Tập tin hosts
 
 - Đường dẫn tập tin [hosts](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) đầy đủ:
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
 
 - Đường dẫn tập tin [hosts-iOS](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS) dành cho iOS (đã jailbreak):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS
 ```
 
-- Đường dẫn tập tin [hosts-VN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) chỉ bao gồm tên miền ở Việt Nam:
+- Đường dẫn tập tin [hosts-VN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) chỉ bao gồm tên miền ở Việt Name:
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 ```
 
 - Đường dẫn tập tin chỉ chứa [tên miền](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 ```
 
-- Đường dẫn tập tin chỉ chứa [tên miền](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt) ở Việt Nam:
+- Đường dẫn tập tin chỉ chứa [tên miền](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt) ở Việt Name:
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt
 ```
@@ -38,26 +43,37 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt
 ## iOS
 
 - Với ứng dụng [Adguard Premium/Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt
 ```
 
 - Với ứng dụng [Adblock](https://github.com/bigdargon/hostsVN/wiki/Adblock) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/wildcard.txt
 ```
 
 - Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge.conf):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-surge.conf
 ```
 
 - Với ứng dụng [Shadowrocket](https://github.com/bigdargon/hostsVN/wiki/Shadowrocket) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-shadowrocket.conf
 ```
 
+- Với ứng dụng Sing-box sử dụng đường dẫn [dưới đây](https://github.com/kingsmanvn1x32/hostsVN/raw/master/option/king1x32-hostsVN-singbox-rule.srs):
+
+```
+https://github.com/kingsmanvn1x32/hostsVN/raw/master/option/king1x32-hostsVN-singbox-rule.srs
+```
+
 - Với ứng dụng [Quantumult X](https://github.com/bigdargon/hostsVN/wiki/Quantumult-X) sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumultX.conf
 ```
@@ -66,12 +82,26 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantu
 
 ## Android
 
+- Với ứng dụng Sing-box sử dụng đường dẫn [dưới đây](https://github.com/kingsmanvn1x32/hostsVN/raw/master/option/king1x32-hostsVN-singbox-rule.srs):
+
+```
+https://github.com/kingsmanvn1x32/hostsVN/raw/master/option/king1x32-hostsVN-singbox-rule.srs
+```
+
+- Với ứng dụng Clash Meta for Android sử dụng đường dẫn [dưới đây](https://github.com/kingsmanvn1x32/hostsVN/raw/master/option/king1x32-hostsVN-clash-rule.mrs):
+
+```
+https://github.com/kingsmanvn1x32/hostsVN/raw/master/option/king1x32-hostsVN-clash-rule.mrs
+```
+
 - Với các máy Android chưa root, sử dụng đường dẫn [dưới đây](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts) cho một số ứng dụng như [Blokada](https://github.com/blokadaorg/blokada), [DNS66](https://github.com/julian-klode/dns66/), [Nebulo](https://github.com/Ch4t4r/Nebulo), [RethinkDNS + Firewall](https://github.com/celzero/rethink-app), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts):
+
 ```
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 ```
 
 - Với các máy Android đã root, sử dụng đường dẫn dưới đây để thêm vào [Adaway](https://f-droid.org/en/packages/org.adaway/):
+
 ```
 https://abpvn.com/android/abpvn.txt
 ```
