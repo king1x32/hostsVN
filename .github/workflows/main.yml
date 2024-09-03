@@ -27,7 +27,6 @@ jobs:
       - name: Generate singbox rule_set source
         shell: bash
         run: |
-          mkdir option tmp
           chmod +x makefile.sh
           bash ./makefile.sh
       - name: Generate singbox rule_set binary

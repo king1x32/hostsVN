@@ -31,12 +31,13 @@ HOSTNAME=$(cat hostsVN/source/config-hostname.txt)
 
 echo "Creating adserver file..."
 # create temp adserver files
+mkdir tmp
 cat hostsVN/source/adservers.txt hostsVN/source/adserver.tmp | grep -v '!' | awk '{print $1}' >>tmp/adservers.tmp
 cat hostsVN/source/adservers-all.txt hostsVN/source/adserver-all.tmp | grep -v '!' | awk '{print $1}' >>tmp/adservers-all.tmp
 cat hostsVN/source/adservers-extra.txt | grep -v '!' | awk '{print $1}' >>tmp/adservers-extra.tmp
 cat hostsVN/source/exceptions.txt | grep -v '!' | awk '{print $1}' >>tmp/exceptions.tmp
 
-curl -o option/king1x32-Advertising_Domain.yaml -sSL https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Advertising/Advertising_Domain.yaml
+curl -o option/king1x32-Advertising_Domain-clash.yaml -sSL https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Advertising/Advertising_Domain.yaml
 
 echo 'payload:' >option/king1x32-hostsVN-clash-rule.yaml
 cat tmp/exceptions.tmp | awk '{print "  - DOMAIN,"$1}' | sed -e 's///gm' >>option/king1x32-hostsVN-clash-rule.yaml
@@ -70,12 +71,12 @@ echo '{
   "version": 2,
   "rules": [
     {
-      "domain": [' >option/king1x32-Advertising_Domain.json
-cat option/king1x32-Advertising_Domain.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "        \""$1"\","}' | sed -e 's///gm' | sed -e 's/\n//gm' | sed -e '$ s/,$//' | sed -e 's/\\/\\\\/gm' | sed -e 's/\//\\\//gm' >>option/king1x32-Advertising_Domain.json
+      "domain": [' >option/king1x32-Advertising_Domain-singbox.json
+cat option/king1x32-Advertising_Domain.txt | grep -v '#' | grep -v -e '^[[:space:]]*$' | awk '{print "        \""$1"\","}' | sed -e 's///gm' | sed -e 's/\n//gm' | sed -e '$ s/,$//' | sed -e 's/\\/\\\\/gm' | sed -e 's/\//\\\//gm' >>option/king1x32-Advertising_Domain-singbox.json
 echo '      ]
     }
   ]
-}' >>option/king1x32-Advertising_Domain.json
+}' >>option/king1x32-Advertising_Domain-singbox.json
 
 # remove tmp file
 rm -rf tmp/*.tmp
