@@ -1,4 +1,0 @@
-!
-! --- Exceptions ---
-!
-app.appsflyer.com

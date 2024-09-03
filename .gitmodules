@@ -1,0 +1,3 @@
+[submodule "hostsVN"]
+	path = hostsVN
+	url = https://github.com/bigdargon/hostsVN.git

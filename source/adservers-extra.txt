@@ -1,7 +1,0 @@
-!
-! --- Extra block ---
-!
-appsflyer.com
-!
-! CNAME Popup
-cds.h5z9g8y6.hwcdn.net
