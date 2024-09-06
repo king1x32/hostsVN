@@ -1,4 +1,4 @@
-name: Auto-generate singbox rule_set binary
+name: Auto-generate rule_set binary
 on:
   push:
     branches: [master]
