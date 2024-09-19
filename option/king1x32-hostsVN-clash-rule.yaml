@@ -2636,6 +2636,7 @@ payload:
   - DOMAIN-SUFFIX,switchadhub.com
   - DOMAIN-SUFFIX,sworkitads.herokuapp.com
   - DOMAIN-SUFFIX,swrve.com
+  - DOMAIN-SUFFIX,sync.quantumdex.io
   - DOMAIN-SUFFIX,t.apkpure.net
   - DOMAIN-SUFFIX,t.imgur.com
   - DOMAIN-SUFFIX,t.indeed.com
@@ -2771,6 +2772,7 @@ payload:
   - DOMAIN-SUFFIX,uprimp.com
   - DOMAIN-SUFFIX,upsight.com
   - DOMAIN-SUFFIX,urlhausa.com
+  - DOMAIN-SUFFIX,useast.quantumdex.io
   - DOMAIN-SUFFIX,user-stats.rbl.ms
   - DOMAIN-SUFFIX,userreport.com
   - DOMAIN-SUFFIX,userreporting.cloud.unity3d.com
@@ -2870,6 +2872,7 @@ payload:
   - DOMAIN-SUFFIX,yandexadexchange.net
   - DOMAIN-SUFFIX,ybx.yahoo.co.jp
   - DOMAIN-SUFFIX,yeas.yahoo.co.jp
+  - DOMAIN-SUFFIX,yellowblue.io
   - DOMAIN-SUFFIX,yieldlab.net
   - DOMAIN-SUFFIX,yieldlove-ad-serving.net
   - DOMAIN-SUFFIX,yieldlove.com
@@ -4850,6 +4853,7 @@ payload:
   - DOMAIN-SUFFIX,cacaobroach.com
   - DOMAIN-SUFFIX,cacasilka.space
   - DOMAIN-SUFFIX,cadetrigourlegitimate.com
+  - DOMAIN-SUFFIX,cadmus.script.ac
   - DOMAIN-SUFFIX,cads.scalemonk.com
   - DOMAIN-SUFFIX,cagamvnuqhuh.com
   - DOMAIN-SUFFIX,cajqtygrudk.com
@@ -6735,6 +6739,7 @@ payload:
   - DOMAIN-SUFFIX,iconcardinal.com
   - DOMAIN-SUFFIX,icptrack.com
   - DOMAIN-SUFFIX,icyattestation.com
+  - DOMAIN-SUFFIX,id.a-mx.com
   - DOMAIN-SUFFIX,idcounter.com
   - DOMAIN-SUFFIX,iddiction.com
   - DOMAIN-SUFFIX,iddpop.com
@@ -9765,7 +9770,6 @@ payload:
   - DOMAIN-SUFFIX,syenitetatler.tech
   - DOMAIN-SUFFIX,sylxisys.com
   - DOMAIN-SUFFIX,sympathydistinguish.com
-  - DOMAIN-SUFFIX,sync.quantumdex.io
   - DOMAIN-SUFFIX,sync2ad.com
   - DOMAIN-SUFFIX,syndapop.com
   - DOMAIN-SUFFIX,syndetstermine.com
@@ -10338,7 +10342,6 @@ payload:
   - DOMAIN-SUFFIX,us.claroadsxml.com
   - DOMAIN-SUFFIX,usabilla.com
   - DOMAIN-SUFFIX,usapromotravel.com
-  - DOMAIN-SUFFIX,useast.quantumdex.io
   - DOMAIN-SUFFIX,uselnk.com
   - DOMAIN-SUFFIX,usemax.de
   - DOMAIN-SUFFIX,usergrid.com
