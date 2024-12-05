@@ -939,7 +939,6 @@ payload:
   - DOMAIN-SUFFIX,1l-view.mail.ru
   - DOMAIN-SUFFIX,1rx.io
   - DOMAIN-SUFFIX,1ts18.top
-  - DOMAIN-SUFFIX,adsmartracker.com
   - DOMAIN-SUFFIX,2468.go2cloud.org
   - DOMAIN-SUFFIX,24smi.net
   - DOMAIN-SUFFIX,2leep.com
@@ -1199,6 +1198,7 @@ payload:
   - DOMAIN-SUFFIX,adsloads.com
   - DOMAIN-SUFFIX,adslot.uc.cn
   - DOMAIN-SUFFIX,adsmanager.ga
+  - DOMAIN-SUFFIX,adsmartracker.com
   - DOMAIN-SUFFIX,adsmoloco.com
   - DOMAIN-SUFFIX,adsninja.b-cdn.net
   - DOMAIN-SUFFIX,adsninja.ca
@@ -1525,6 +1525,7 @@ payload:
   - DOMAIN-SUFFIX,bluekai.com
   - DOMAIN-SUFFIX,blueseed.tv
   - DOMAIN-SUFFIX,blueserving.com
+  - DOMAIN-SUFFIX,bncloudfl.com
   - DOMAIN-SUFFIX,bnmla.com
   - DOMAIN-SUFFIX,boffoadsfeeds.com
   - DOMAIN-SUFFIX,bookmsg.com
@@ -5028,7 +5029,6 @@ payload:
   - DOMAIN-SUFFIX,cdn-plus.roxot-panel.com
   - DOMAIN-SUFFIX,cdn-server.top
   - DOMAIN-SUFFIX,cdn.adimo.co
-  - DOMAIN-SUFFIX,cdn.bncloudfl.com
   - DOMAIN-SUFFIX,cdn.c-i.as
   - DOMAIN-SUFFIX,cdn.concert.io
   - DOMAIN-SUFFIX,cdn.counter.dev
@@ -7728,6 +7728,7 @@ payload:
   - DOMAIN-SUFFIX,mcymumqmaagp.com
   - DOMAIN-SUFFIX,mcyvayyde.com
   - DOMAIN-SUFFIX,mdotm.com
+  - DOMAIN-SUFFIX,mdstats.info
   - DOMAIN-SUFFIX,meandiminutionhit.com
   - DOMAIN-SUFFIX,measlesjack.com
   - DOMAIN-SUFFIX,measure.admiralmarkets.com
@@ -7945,6 +7946,7 @@ payload:
   - DOMAIN-SUFFIX,motricity.com
   - DOMAIN-SUFFIX,motrixi.com
   - DOMAIN-SUFFIX,mousestats.com
+  - DOMAIN-SUFFIX,mousheebaivy.net
   - DOMAIN-SUFFIX,moversa.com
   - DOMAIN-SUFFIX,movie-pass.live
   - DOMAIN-SUFFIX,movve.com
@@ -8359,6 +8361,7 @@ payload:
   - DOMAIN-SUFFIX,onclasrv.com
   - DOMAIN-SUFFIX,onclickads.net
   - DOMAIN-SUFFIX,onclickalgo.com
+  - DOMAIN-SUFFIX,onclickgenius.com
   - DOMAIN-SUFFIX,onclickmega.com
   - DOMAIN-SUFFIX,onclickperformance.com
   - DOMAIN-SUFFIX,onclicksuper.com
@@ -10274,6 +10277,7 @@ payload:
   - DOMAIN-SUFFIX,thoosje.com
   - DOMAIN-SUFFIX,thor-pom.com
   - DOMAIN-SUFFIX,thougnoangi.com
+  - DOMAIN-SUFFIX,thoungoofeed.net
   - DOMAIN-SUFFIX,threechurch.com
   - DOMAIN-SUFFIX,thripelbertie.website
   - DOMAIN-SUFFIX,thrnt.com
