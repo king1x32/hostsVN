@@ -255,6 +255,7 @@ payload:
   - DOMAIN-SUFFIX,quangcao.tuoitre.vn
   - DOMAIN-SUFFIX,realclick.vn
   - DOMAIN-SUFFIX,rec.aiservice.vn
+  - DOMAIN-SUFFIX,s-logperf.vnexpress.net
   - DOMAIN-SUFFIX,s.tuoitre.vn
   - DOMAIN-SUFFIX,sbbanner-com.cdn.ampproject.org
   - DOMAIN-SUFFIX,sdk.zadn.vn
@@ -1657,6 +1658,7 @@ payload:
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mnaspm.com
   - DOMAIN-SUFFIX,mng-ads.com
+  - DOMAIN-SUFFIX,mntzrlt.net
   - DOMAIN-SUFFIX,moatads.com
   - DOMAIN-SUFFIX,mobads-logs.baidu.com
   - DOMAIN-SUFFIX,mobads.baidu.com
