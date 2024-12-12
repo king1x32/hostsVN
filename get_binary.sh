@@ -1,4 +1,4 @@
-singbox_url=$(curl -s "https://api.github.com/repos/SagerNet/sing-box/releases" | grep -o -m 1 '"browser_download_url":\s"http[^"]*-linux-amd64v3\.tar\.gz' | sed -r 's/"browser_download_url":\s"//')
+singbox_url=$(curl -s "https://api.github.com/repos/SagerNet/sing-box/releases" | grep -o -m 1 '"browser_download_url":\s"http[^"]*-linux-amd64\.tar\.gz' | sed -r 's/"browser_download_url":\s"//')
 singbox_url=$(echo -e "${singbox_url}" | tr -d '[:space:]')
 echo "singbox_url: $singbox_url"
 singbox_namezip=$(echo "$singbox_url" | cut -d/ -f9)
