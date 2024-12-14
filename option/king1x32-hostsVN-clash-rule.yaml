@@ -714,6 +714,7 @@ payload:
   - DOMAIN-SUFFIX,afp.ai
   - DOMAIN-SUFFIX,agentanalytics.com
   - DOMAIN-SUFFIX,agkn.com
+  - DOMAIN-SUFFIX,ahoy-internal-ads-hv.b-cdn.net
   - DOMAIN-SUFFIX,aicactus.io
   - DOMAIN-SUFFIX,aidata.io
   - DOMAIN-SUFFIX,aimtell.com
@@ -980,6 +981,7 @@ payload:
   - DOMAIN-SUFFIX,browser.events.data.msn.com
   - DOMAIN-SUFFIX,browsiprod.com
   - DOMAIN-SUFFIX,brznetwork.com
+  - DOMAIN-SUFFIX,bs-adserver.b-cdn.net
   - DOMAIN-SUFFIX,bs.yandex.ru
   - DOMAIN-SUFFIX,btloader.com
   - DOMAIN-SUFFIX,btrace.qq.com
@@ -1115,6 +1117,7 @@ payload:
   - DOMAIN-SUFFIX,creative.sphdigital.com
   - DOMAIN-SUFFIX,creativecdn.com
   - DOMAIN-SUFFIX,creativesumo.com
+  - DOMAIN-SUFFIX,creatopy-adtag-production.b-cdn.net
   - DOMAIN-SUFFIX,criteo.com
   - DOMAIN-SUFFIX,criteo.net
   - DOMAIN-SUFFIX,crs-event.line.me
