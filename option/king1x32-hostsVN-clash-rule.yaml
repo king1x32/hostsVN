@@ -315,7 +315,6 @@ payload:
   - DOMAIN-SUFFIX,trackingsea.zingplay.com
   - DOMAIN-SUFFIX,trackingvn.zingplay.com
   - DOMAIN-SUFFIX,trk-pcweb.api.zaloapp.com
-  - DOMAIN-SUFFIX,urekamedia.com
   - DOMAIN-SUFFIX,v20.cnnd.vn
   - DOMAIN-SUFFIX,v9banners-com.cdn.ampproject.org
   - DOMAIN-SUFFIX,vads.net.vn
@@ -962,6 +961,7 @@ payload:
   - DOMAIN-SUFFIX,blueserving.com
   - DOMAIN-SUFFIX,bncloudfl.com
   - DOMAIN-SUFFIX,bnmla.com
+  - DOMAIN-SUFFIX,bodis.com
   - DOMAIN-SUFFIX,boffoadsfeeds.com
   - DOMAIN-SUFFIX,bookmsg.com
   - DOMAIN-SUFFIX,books-analytics-events.apple.com
