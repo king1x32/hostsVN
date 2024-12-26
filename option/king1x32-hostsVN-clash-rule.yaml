@@ -583,6 +583,7 @@ payload:
   - DOMAIN-SUFFIX,ads.playground.xyz
   - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
   - DOMAIN-SUFFIX,ads.realmemobile.com
+  - DOMAIN-SUFFIX,ads.reddit.com
   - DOMAIN-SUFFIX,ads.samba.tv
   - DOMAIN-SUFFIX,ads.snapchat.com
   - DOMAIN-SUFFIX,ads.thesun.co.uk
@@ -671,6 +672,7 @@ payload:
   - DOMAIN-SUFFIX,adtrack.king.com
   - DOMAIN-SUFFIX,adtrack.ucweb.com
   - DOMAIN-SUFFIX,adtrackers.net
+  - DOMAIN-SUFFIX,adtrafficquality.google
   - DOMAIN-SUFFIX,adtrue.com
   - DOMAIN-SUFFIX,adup-tech.com
   - DOMAIN-SUFFIX,adv.sec.intl.miui.com
@@ -734,6 +736,7 @@ payload:
   - DOMAIN-SUFFIX,akisinn.me
   - DOMAIN-SUFFIX,akisinn.site
   - DOMAIN-SUFFIX,akstat.io
+  - DOMAIN-SUFFIX,alb.reddit.com
   - DOMAIN-SUFFIX,alcmpn.com
   - DOMAIN-SUFFIX,alexametrics.com
   - DOMAIN-SUFFIX,alphonso.tv
@@ -783,7 +786,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.pinterest.com
   - DOMAIN-SUFFIX,analytics.query.yahoo.com
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
-  - DOMAIN-SUFFIX,analytics.spotify.com
   - DOMAIN-SUFFIX,analytics.starmakerstudios.com
   - DOMAIN-SUFFIX,analytics.tango.me
   - DOMAIN-SUFFIX,analytics.tiktok.com
@@ -1135,6 +1137,7 @@ payload:
   - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,cxense.com
   - DOMAIN-SUFFIX,czilladx.com
+  - DOMAIN-SUFFIX,d.reddit.com
   - DOMAIN-SUFFIX,d1ros97qkrwjf5.cloudfront.net
   - DOMAIN-SUFFIX,d1v373ntykegkp.cloudfront.net
   - DOMAIN-SUFFIX,d2-apps.net
@@ -1228,6 +1231,7 @@ payload:
   - DOMAIN-SUFFIX,epom.com
   - DOMAIN-SUFFIX,erne.co
   - DOMAIN-SUFFIX,ero-advertising.com
+  - DOMAIN-SUFFIX,error-tracking.reddit.com
   - DOMAIN-SUFFIX,eskimi.com
   - DOMAIN-SUFFIX,et.nytimes.com
   - DOMAIN-SUFFIX,ethicalads.io
@@ -1250,6 +1254,7 @@ payload:
   - DOMAIN-SUFFIX,events.iap.unity3d.com
   - DOMAIN-SUFFIX,events.mz.unity3d.com
   - DOMAIN-SUFFIX,events.popinfo.jp
+  - DOMAIN-SUFFIX,events.reddit.com
   - DOMAIN-SUFFIX,everestop.io
   - DOMAIN-SUFFIX,everesttech.net
   - DOMAIN-SUFFIX,evidon.com
@@ -1809,14 +1814,17 @@ payload:
   - DOMAIN-SUFFIX,pings.conviva.com
   - DOMAIN-SUFFIX,pix.spot.im
   - DOMAIN-SUFFIX,pixanalytics.com
+  - DOMAIN-SUFFIX,pixel-config.reddit.com
   - DOMAIN-SUFFIX,pixel-static.spotify.com
   - DOMAIN-SUFFIX,pixel.condenastdigital.com
   - DOMAIN-SUFFIX,pixel.facebook.com
   - DOMAIN-SUFFIX,pixel.inforsea.com
+  - DOMAIN-SUFFIX,pixel.reddit.com
   - DOMAIN-SUFFIX,pixel.sojern.com
   - DOMAIN-SUFFIX,pixel.spotify.com
   - DOMAIN-SUFFIX,pixelappcollector.thesun.co.uk
   - DOMAIN-SUFFIX,pixelcounter.marca.com
+  - DOMAIN-SUFFIX,pixels.spotify.com
   - DOMAIN-SUFFIX,pixfuture.com
   - DOMAIN-SUFFIX,platform.tumblr.com
   - DOMAIN-SUFFIX,playstream.media
@@ -2294,6 +2302,8 @@ payload:
   - DOMAIN-SUFFIX,vortex.hulu.com
   - DOMAIN-SUFFIX,vserv.mobi
   - DOMAIN-SUFFIX,vungle.com
+  - DOMAIN-SUFFIX,w3-reporting-nel.reddit.com
+  - DOMAIN-SUFFIX,w3-reporting.reddit.com
   - DOMAIN-SUFFIX,w55c.net
   - DOMAIN-SUFFIX,wbidder.online
   - DOMAIN-SUFFIX,wct.link
