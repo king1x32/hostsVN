@@ -506,6 +506,7 @@ payload:
   - DOMAIN-SUFFIX,adlightning.com
   - DOMAIN-SUFFIX,adlog.cbsi.com
   - DOMAIN-SUFFIX,adlog.shopping.naver.com
+  - DOMAIN-SUFFIX,adlogists.com
   - DOMAIN-SUFFIX,adlooxtracking.com
   - DOMAIN-SUFFIX,admanmedia.com
   - DOMAIN-SUFFIX,admantx.com
@@ -1955,6 +1956,7 @@ payload:
   - DOMAIN-SUFFIX,rtbid.me
   - DOMAIN-SUFFIX,rtbsuperhub.com
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
+  - DOMAIN-SUFFIX,rtgio.co
   - DOMAIN-SUFFIX,rtlog.tiktokv.com
   - DOMAIN-SUFFIX,rtmark.net
   - DOMAIN-SUFFIX,rtpdn12.com
