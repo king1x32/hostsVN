@@ -552,6 +552,7 @@ payload:
   - DOMAIN-SUFFIX,ads-api.tiktok.com
   - DOMAIN-SUFFIX,ads-api.twitter.com
   - DOMAIN-SUFFIX,ads-api.videy.co
+  - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,ads-bidder-api.twitter.com
   - DOMAIN-SUFFIX,ads-cloud.rovio.com
   - DOMAIN-SUFFIX,ads-d.viber.com
