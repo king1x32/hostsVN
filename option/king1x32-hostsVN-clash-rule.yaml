@@ -436,8 +436,10 @@ payload:
   - DOMAIN-SUFFIX,ad.plus
   - DOMAIN-SUFFIX,ad.qq.com
   - DOMAIN-SUFFIX,ad.style
+  - DOMAIN-SUFFIX,ad.weibo.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad.youku.com
+  - DOMAIN-SUFFIX,ad.zijieapi.com
   - DOMAIN-SUFFIX,ad1.ettoday.net
   - DOMAIN-SUFFIX,ad1x.com
   - DOMAIN-SUFFIX,ad2.ettoday.net
@@ -493,6 +495,7 @@ payload:
   - DOMAIN-SUFFIX,adimage.sphdigital.com
   - DOMAIN-SUFFIX,adimages.go.com
   - DOMAIN-SUFFIX,adimg.cbsi.com
+  - DOMAIN-SUFFIX,adimg.uve.weibo.com
   - DOMAIN-SUFFIX,adinfo.tango.me
   - DOMAIN-SUFFIX,adingo.jp
   - DOMAIN-SUFFIX,adinsight.co.kr
@@ -652,6 +655,7 @@ payload:
   - DOMAIN-SUFFIX,adstatic.b-cdn.net
   - DOMAIN-SUFFIX,adstatic.com
   - DOMAIN-SUFFIX,adsterra.org
+  - DOMAIN-SUFFIX,adstrategy.biz.weibo.com
   - DOMAIN-SUFFIX,adswin.net
   - DOMAIN-SUFFIX,adswizz.com
   - DOMAIN-SUFFIX,adsymptotic.com
@@ -854,6 +858,7 @@ payload:
   - DOMAIN-SUFFIX,applifier.com
   - DOMAIN-SUFFIX,applog-perf.uc.cn
   - DOMAIN-SUFFIX,applog.uc.cn
+  - DOMAIN-SUFFIX,applog.zijieapi.com
   - DOMAIN-SUFFIX,applogios.uc.cn
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
@@ -1098,6 +1103,7 @@ payload:
   - DOMAIN-SUFFIX,confiant-integrations.net
   - DOMAIN-SUFFIX,config.hiido.com
   - DOMAIN-SUFFIX,config.mobilegamestats.com
+  - DOMAIN-SUFFIX,config.sdk.scopely.io
   - DOMAIN-SUFFIX,connatix.com
   - DOMAIN-SUFFIX,connect.idocdn.com
   - DOMAIN-SUFFIX,connectad.io
@@ -1242,6 +1248,7 @@ payload:
   - DOMAIN-SUFFIX,eve.mdt.qq.com
   - DOMAIN-SUFFIX,event-action.popinfo.jp
   - DOMAIN-SUFFIX,event-stream.spot.im
+  - DOMAIN-SUFFIX,event.collector.scopely.io
   - DOMAIN-SUFFIX,event.condenastdigital.com
   - DOMAIN-SUFFIX,event.dfinery.io
   - DOMAIN-SUFFIX,eventgateway.soundcloud.com
@@ -1283,6 +1290,7 @@ payload:
   - DOMAIN-SUFFIX,fclick-adnow.com
   - DOMAIN-SUFFIX,fclog.baidu.com
   - DOMAIN-SUFFIX,felix.data.tm-awx.com
+  - DOMAIN-SUFFIX,fenrir-resolver.aprod.scopely.io
   - DOMAIN-SUFFIX,fidelity-media.com
   - DOMAIN-SUFFIX,fiftyt.com
   - DOMAIN-SUFFIX,filament-stats.herokuapp.com
@@ -1557,6 +1565,10 @@ payload:
   - DOMAIN-SUFFIX,log.spotify.com
   - DOMAIN-SUFFIX,log.strm.yandex.ru
   - DOMAIN-SUFFIX,log.tbs.qq.com
+  - DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
+  - DOMAIN-SUFFIX,log.tpns.tencent.com
+  - DOMAIN-SUFFIX,log1.cmpassport.com
+  - DOMAIN-SUFFIX,log2.cmpassport.com
   - DOMAIN-SUFFIX,log2.spotify.com
   - DOMAIN-SUFFIX,logbak.hicloud.com
   - DOMAIN-SUFFIX,logger.applovefrom.com
@@ -1618,6 +1630,7 @@ payload:
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,mcs.zijieapi.com
   - DOMAIN-SUFFIX,me.cpatrk.net
   - DOMAIN-SUFFIX,measuread.com
   - DOMAIN-SUFFIX,media.evolv.ai
@@ -1696,6 +1709,7 @@ payload:
   - DOMAIN-SUFFIX,mon.snssdk.com
   - DOMAIN-SUFFIX,mon.tiktokv.com
   - DOMAIN-SUFFIX,mon.us.tiktokv.com
+  - DOMAIN-SUFFIX,mon.zijieapi.com
   - DOMAIN-SUFFIX,mondiad.net
   - DOMAIN-SUFFIX,mookie1.com
   - DOMAIN-SUFFIX,mopub.com
@@ -1771,6 +1785,7 @@ payload:
   - DOMAIN-SUFFIX,optvx.com
   - DOMAIN-SUFFIX,orbsrv.com
   - DOMAIN-SUFFIX,orgxts.com
+  - DOMAIN-SUFFIX,os-mon.zijieapi.com
   - DOMAIN-SUFFIX,otm-r.com
   - DOMAIN-SUFFIX,otnolatrnup.com
   - DOMAIN-SUFFIX,outbrain.com
@@ -1796,6 +1811,7 @@ payload:
   - DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
   - DOMAIN-SUFFIX,pbbl.co
   - DOMAIN-SUFFIX,pbstck.com
+  - DOMAIN-SUFFIX,pc-mon.zijieapi.com
   - DOMAIN-SUFFIX,pcapp-data-collect.youku.com
   - DOMAIN-SUFFIX,pclick.yahoo.com
   - DOMAIN-SUFFIX,pclk.name
@@ -1857,6 +1873,7 @@ payload:
   - DOMAIN-SUFFIX,premiumtag.net
   - DOMAIN-SUFFIX,presage.io
   - DOMAIN-SUFFIX,preview-collector.scopely.io
+  - DOMAIN-SUFFIX,privacy-policy.truste.com
   - DOMAIN-SUFFIX,privatestats.whatsapp.net
   - DOMAIN-SUFFIX,pro-market.net
   - DOMAIN-SUFFIX,prod-collecticon.outlookmobile.com
@@ -1922,6 +1939,7 @@ payload:
   - DOMAIN-SUFFIX,redintelligence.net
   - DOMAIN-SUFFIX,referrer.disqus.com
   - DOMAIN-SUFFIX,refpa.top
+  - DOMAIN-SUFFIX,register.collector.scopely.io
   - DOMAIN-SUFFIX,reklamstore.com
   - DOMAIN-SUFFIX,relaido.jp
   - DOMAIN-SUFFIX,relap.io
@@ -1951,6 +1969,7 @@ payload:
   - DOMAIN-SUFFIX,rklmstr.com
   - DOMAIN-SUFFIX,rlcdn.com
   - DOMAIN-SUFFIX,rmads.msn.com
+  - DOMAIN-SUFFIX,rmonitor.qq.com
   - DOMAIN-SUFFIX,rmp.rakuten.com
   - DOMAIN-SUFFIX,rmtag.com
   - DOMAIN-SUFFIX,rpdn.relateddigital.com
@@ -2083,11 +2102,14 @@ payload:
   - DOMAIN-SUFFIX,stat.e.tf.360.cn
   - DOMAIN-SUFFIX,stat.m.360.cn
   - DOMAIN-SUFFIX,stat.ovh
+  - DOMAIN-SUFFIX,stat.tpns.gz2.tencent.com
+  - DOMAIN-SUFFIX,stat.tpns.tencent.com
   - DOMAIN-SUFFIX,statcounter.com
   - DOMAIN-SUFFIX,statgw.devtodev.com
   - DOMAIN-SUFFIX,static-doubleclick-net.l.google.com
   - DOMAIN-SUFFIX,static-tracking.klaviyo.com
   - DOMAIN-SUFFIX,static.addtoany.com
+  - DOMAIN-SUFFIX,static.aprod.scopely.io
   - DOMAIN-SUFFIX,staticstuff.net
   - DOMAIN-SUFFIX,stats.addtoany.com
   - DOMAIN-SUFFIX,stats.adobe.com
@@ -2150,6 +2172,7 @@ payload:
   - DOMAIN-SUFFIX,taroads.com
   - DOMAIN-SUFFIX,taxel.jp
   - DOMAIN-SUFFIX,tblog-*.kgslb.com
+  - DOMAIN-SUFFIX,tdid.m.qq.com
   - DOMAIN-SUFFIX,teads.tv
   - DOMAIN-SUFFIX,techlab-cdn.com
   - DOMAIN-SUFFIX,technoratimedia.com
@@ -2177,6 +2200,7 @@ payload:
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
   - DOMAIN-SUFFIX,top.mail.ru
   - DOMAIN-SUFFIX,toponad.com
+  - DOMAIN-SUFFIX,tpstelemetry.tencent.com
   - DOMAIN-SUFFIX,tr.attribuly.com
   - DOMAIN-SUFFIX,tr.line.me
   - DOMAIN-SUFFIX,tr.snapchat.com
@@ -2191,6 +2215,7 @@ payload:
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.ai.xiaomi.com
   - DOMAIN-SUFFIX,tracker.idocdn.com
+  - DOMAIN-SUFFIX,trackerapi.truste.com
   - DOMAIN-SUFFIX,tracking-3-9f58.trnox.com
   - DOMAIN-SUFFIX,tracking.intl.miui.com
   - DOMAIN-SUFFIX,tracking.miui.com
@@ -2241,6 +2266,7 @@ payload:
   - DOMAIN-SUFFIX,ugdturner.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,ujm.hansel.io
+  - DOMAIN-SUFFIX,umdc.aliapp.org
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,umengcloud.com
@@ -2277,6 +2303,7 @@ payload:
   - DOMAIN-SUFFIX,vaicore.xyz
   - DOMAIN-SUFFIX,valuecommerce.com
   - DOMAIN-SUFFIX,vasstycom.com
+  - DOMAIN-SUFFIX,vcs.zijieapi.com
   - DOMAIN-SUFFIX,vdo.ai
   - DOMAIN-SUFFIX,venatusmedia.com
   - DOMAIN-SUFFIX,verblife-5.co
@@ -2306,6 +2333,7 @@ payload:
   - DOMAIN-SUFFIX,voodoo-ads.io
   - DOMAIN-SUFFIX,voodoo-analytics.io
   - DOMAIN-SUFFIX,vortex.hulu.com
+  - DOMAIN-SUFFIX,vs.biz.weibo.com
   - DOMAIN-SUFFIX,vserv.mobi
   - DOMAIN-SUFFIX,vungle.com
   - DOMAIN-SUFFIX,w3-reporting-nel.reddit.com
@@ -2377,6 +2405,7 @@ payload:
   - DOMAIN-SUFFIX,yllix.com
   - DOMAIN-SUFFIX,ylog.hiido.com
   - DOMAIN-SUFFIX,ylog.nimo.tv
+  - DOMAIN-SUFFIX,ynuf.aliapp.org
   - DOMAIN-SUFFIX,yodimedia.com
   - DOMAIN-SUFFIX,yomeno.xyz
   - DOMAIN-SUFFIX,youbora.com
