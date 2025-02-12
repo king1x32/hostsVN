@@ -1,5 +1,4 @@
-singbox_url=$(curl -s "https://api.github.com/repos/SagerNet/sing-box/releases" | grep -o -m 1 '"browser_download_url":\s"http[^"]*-linux-amd64\.tar\.gz' | sed -r 's/"browser_download_url":\s"//')
-singbox_url=$(echo -e "${singbox_url}" | tr -d '[:space:]')
+singbox_url=$(curl https://api.github.com/repos/SagerNet/sing-box/releases 2>/dev/null|awk -F\" '/browser_download_url/ && /linux-amd64/ {print $4; exit}')
 echo "singbox_url: $singbox_url"
 singbox_namezip=$(echo "$singbox_url" | cut -d/ -f9)
 singbox_name=$(echo "$singbox_namezip" | cut -c 1-$((${#singbox_namezip} - 7)))
@@ -12,8 +11,7 @@ $singbox_path rule-set compile --output option/king1x32-hostsVN-singbox-rule.srs
 
 $singbox_path rule-set compile --output option/king1x32-Advertising_Domain-singbox.srs option/king1x32-Advertising_Domain-singbox.json
 
-clash_url=$(curl -s "https://api.github.com/repos/MetaCubeX/mihomo/releases" | grep -o -m 1 '"browser_download_url":\s"http[^"]*mihomo-linux-amd64-compatible-go.*-alpha-.*\.gz' | sed -r 's/"browser_download_url":\s"//')
-clash_url=$(echo -e "${clash_url}" | tr -d '[:space:]')
+clash_url=$(curl https://api.github.com/repos/MetaCubeX/mihomo/releases 2>/dev/null|awk -F\" '/browser_download_url/ && /linux-amd64-compatible-go/ && /.gz/ {print $4; exit}')
 echo "clash_url: $clash_url"
 clash_namezip=$(echo "$clash_url" | cut -d/ -f9)
 clash_name=$(echo "$clash_namezip" | cut -c 1-$((${#clash_namezip} - 3)))
