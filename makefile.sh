@@ -37,7 +37,7 @@ cat hostsVN/source/adservers-all.txt hostsVN/source/adserver-all.tmp | grep -v '
 cat hostsVN/source/adservers-extra.txt | grep -v '!' | awk '{print $1}' >>tmp/adservers-extra.tmp
 cat hostsVN/source/exceptions.txt | grep -v '!' | awk '{print $1}' >>tmp/exceptions.tmp
 
-curl -o option/king1x32-Advertising_Domain-clash.yaml -sSL https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Advertising/Advertising_Domain.yaml
+curl -o option/king1x32-Advertising_Domain-clash.yaml -sSL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Advertising/Advertising_Domain.yaml
 
 echo 'payload:' >option/king1x32-hostsVN-clash-rule.yaml
 cat tmp/exceptions.tmp | awk '{print "  - DOMAIN,"$1}' | sed -e 's///gm' >>option/king1x32-hostsVN-clash-rule.yaml
@@ -65,7 +65,7 @@ echo '      ]
   ]
 }' >>option/king1x32-hostsVN-singbox-rule.json
 
-curl -o option/king1x32-Advertising_Domain.txt -sSL https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Advertising/Advertising_Domain.txt
+curl -o option/king1x32-Advertising_Domain.txt -sSL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Advertising/Advertising_Domain.txt
 
 echo '{
   "version": 2,
