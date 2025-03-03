@@ -390,6 +390,7 @@ payload:
   - DOMAIN-SUFFIX,ab1n.net
   - DOMAIN-SUFFIX,abt.s3.yandex.net
   - DOMAIN-SUFFIX,abtasty.com
+  - DOMAIN-SUFFIX,abtest.alibaba.com
   - DOMAIN-SUFFIX,accesstrade.net
   - DOMAIN-SUFFIX,act.ds.kakao.com
   - DOMAIN-SUFFIX,acuityplatform.com
@@ -439,6 +440,7 @@ payload:
   - DOMAIN-SUFFIX,adashbc.m.taobao.com
   - DOMAIN-SUFFIX,adashbc.ut.taobao.com
   - DOMAIN-SUFFIX,adashx.m.taobao.com
+  - DOMAIN-SUFFIX,adashx.ut.alibaba.com
   - DOMAIN-SUFFIX,adashx.ut.taobao.com
   - DOMAIN-SUFFIX,adashx.ut.youku.com
   - DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
@@ -610,6 +612,7 @@ payload:
   - DOMAIN-SUFFIX,adserver.bing.com
   - DOMAIN-SUFFIX,adserver.yahoo.com
   - DOMAIN-SUFFIX,adservercheck.net
+  - DOMAIN-SUFFIX,adservice.aliexpress.com
   - DOMAIN-SUFFIX,adservice.google.*
   - DOMAIN-SUFFIX,adservices.brandcdn.com
   - DOMAIN-SUFFIX,adservme.com
@@ -1042,6 +1045,7 @@ payload:
   - DOMAIN-SUFFIX,clevernt.com
   - DOMAIN-SUFFIX,clevertap-prod.com
   - DOMAIN-SUFFIX,clevertap.com
+  - DOMAIN-SUFFIX,click.aliexpress.com
   - DOMAIN-SUFFIX,clickadilla.com
   - DOMAIN-SUFFIX,clickagy.com
   - DOMAIN-SUFFIX,clickcdn.co
@@ -1056,6 +1060,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfront-labs.amazonaws.com
   - DOMAIN-SUFFIX,cloudmobi.net
   - DOMAIN-SUFFIX,cm-exchange.toast.com
+  - DOMAIN-SUFFIX,cmap.alibaba.com
   - DOMAIN-SUFFIX,cnnx.io
   - DOMAIN-SUFFIX,cnt.my
   - DOMAIN-SUFFIX,cnt.trvdp.com
@@ -1168,6 +1173,8 @@ payload:
   - DOMAIN-SUFFIX,dlswbr.baidu.com
   - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dmpxs.com
+  - DOMAIN-SUFFIX,dmtracking.alibaba.com
+  - DOMAIN-SUFFIX,dmtracking2.alibaba.com
   - DOMAIN-SUFFIX,dmzjmp.com
   - DOMAIN-SUFFIX,domnovrek.com
   - DOMAIN-SUFFIX,doppler-reporting.cbsivideo.com
@@ -1276,6 +1283,8 @@ payload:
   - DOMAIN-SUFFIX,focas.jp
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,fouanalytics.com
+  - DOMAIN-SUFFIX,fourier.alibaba.com
+  - DOMAIN-SUFFIX,fourier.aliexpress.com
   - DOMAIN-SUFFIX,fourier.taobao.com
   - DOMAIN-SUFFIX,fout.jp
   - DOMAIN-SUFFIX,fp-cdn.azureedge.net
@@ -1350,6 +1359,7 @@ payload:
   - DOMAIN-SUFFIX,guardianapps.co.uk
   - DOMAIN-SUFFIX,gumgum.com
   - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,h-adashx.ut.alibaba.com
   - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
   - DOMAIN-SUFFIX,h-adashx.ut.youku.com
   - DOMAIN-SUFFIX,h-adashx4ae.ut.taobao.com
@@ -1386,6 +1396,7 @@ payload:
   - DOMAIN-SUFFIX,hubvisor.io
   - DOMAIN-SUFFIX,hummingbird.mavencoalition.io
   - DOMAIN-SUFFIX,hwstats.unity3d.com
+  - DOMAIN-SUFFIX,hydra.alibaba.com
   - DOMAIN-SUFFIX,hyperpromote.com
   - DOMAIN-SUFFIX,i-mobile.co.jp
   - DOMAIN-SUFFIX,ia.51.la
@@ -1670,6 +1681,7 @@ payload:
   - DOMAIN-SUFFIX,mobpartner.mobi
   - DOMAIN-SUFFIX,mobytrks.com
   - DOMAIN-SUFFIX,modoro360.com
+  - DOMAIN-SUFFIX,moduleanalysis.aliexpress.com
   - DOMAIN-SUFFIX,mon.isnssdk.com
   - DOMAIN-SUFFIX,mon.snssdk.com
   - DOMAIN-SUFFIX,mon.tiktokv.com
@@ -1777,6 +1789,7 @@ payload:
   - DOMAIN-SUFFIX,pcapp-data-collect.youku.com
   - DOMAIN-SUFFIX,pclick.yahoo.com
   - DOMAIN-SUFFIX,pclk.name
+  - DOMAIN-SUFFIX,pcookie.aliexpress.com
   - DOMAIN-SUFFIX,pemsrv.com
   - DOMAIN-SUFFIX,pepperjam.com
   - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
@@ -2052,6 +2065,7 @@ payload:
   - DOMAIN-SUFFIX,startup-mobile.ap.yandex-net.ru
   - DOMAIN-SUFFIX,startup.mobile.yandex.net
   - DOMAIN-SUFFIX,stat-rock.com
+  - DOMAIN-SUFFIX,stat.alibaba.com
   - DOMAIN-SUFFIX,stat.e.tf.360.cn
   - DOMAIN-SUFFIX,stat.m.360.cn
   - DOMAIN-SUFFIX,stat.ovh
