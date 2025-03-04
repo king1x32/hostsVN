@@ -1519,6 +1519,7 @@ payload:
   - DOMAIN-SUFFIX,lijit.com
   - DOMAIN-SUFFIX,links.services.disqus.com
   - DOMAIN-SUFFIX,linkshare.com
+  - DOMAIN-SUFFIX,linksprf.com
   - DOMAIN-SUFFIX,linksynergy.com
   - DOMAIN-SUFFIX,litvp.com
   - DOMAIN-SUFFIX,livetracker.*.pangea-cms.com
