@@ -741,13 +741,13 @@ payload:
   - DOMAIN-SUFFIX,amntx1.net
   - DOMAIN-SUFFIX,amung.us
   - DOMAIN-SUFFIX,amxrtb.com
+  - DOMAIN-SUFFIX,an.avast.com
   - DOMAIN-SUFFIX,an.facebook.com
   - DOMAIN-SUFFIX,an.yandex.ru
   - DOMAIN-SUFFIX,analy.qq.com
   - DOMAIN-SUFFIX,analysis.fi
   - DOMAIN-SUFFIX,analytics-ad-*.kgslb.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
-  - DOMAIN-SUFFIX,analytics-prod-gcp.ff.avast.com
   - DOMAIN-SUFFIX,analytics-sg.tiktok.com
   - DOMAIN-SUFFIX,analytics.365scores.com
   - DOMAIN-SUFFIX,analytics.adjust.cn
@@ -788,6 +788,7 @@ payload:
   - DOMAIN-SUFFIX,aniview.com
   - DOMAIN-SUFFIX,aniview.com.edgekey.net
   - DOMAIN-SUFFIX,ankdoier.com
+  - DOMAIN-SUFFIX,ans.avast.com
   - DOMAIN-SUFFIX,anti-adblock.herokuapp.com
   - DOMAIN-SUFFIX,antillephone.com
   - DOMAIN-SUFFIX,anymad.com
@@ -1669,6 +1670,7 @@ payload:
   - DOMAIN-SUFFIX,mobclix.com
   - DOMAIN-SUFFIX,mobfox.com
   - DOMAIN-SUFFIX,mobile-10.com
+  - DOMAIN-SUFFIX,mobile-campaigns.avast.com
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,mobileads.indiatimes.com
   - DOMAIN-SUFFIX,mobileads.msn.com
@@ -1739,6 +1741,7 @@ payload:
   - DOMAIN-SUFFIX,omappapi.com
   - DOMAIN-SUFFIX,omguk.com
   - DOMAIN-SUFFIX,omnitagjs.com
+  - DOMAIN-SUFFIX,oms.avast.com
   - DOMAIN-SUFFIX,omtrdc.net
   - DOMAIN-SUFFIX,onaudience.com
   - DOMAIN-SUFFIX,onespot-tracking.herokuapp.com
@@ -2003,6 +2006,7 @@ payload:
   - DOMAIN-SUFFIX,shareaholic.com
   - DOMAIN-SUFFIX,sharethis.com
   - DOMAIN-SUFFIX,sharethrough.com
+  - DOMAIN-SUFFIX,shepherd.ff.avast.com
   - DOMAIN-SUFFIX,showcasethat.com
   - DOMAIN-SUFFIX,showheroes.com
   - DOMAIN-SUFFIX,siftscience.com
