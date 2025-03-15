@@ -444,7 +444,6 @@ payload:
   - DOMAIN-SUFFIX,adashx.ut.taobao.com
   - DOMAIN-SUFFIX,adashx.ut.youku.com
   - DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
-  - DOMAIN-SUFFIX,adashx4sg.ut.taobao.com
   - DOMAIN-SUFFIX,adashxgc.ut.taobao.com
   - DOMAIN-SUFFIX,adblade.com
   - DOMAIN-SUFFIX,adbottw.net
@@ -1364,7 +1363,6 @@ payload:
   - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
   - DOMAIN-SUFFIX,h-adashx.ut.youku.com
   - DOMAIN-SUFFIX,h-adashx4ae.ut.taobao.com
-  - DOMAIN-SUFFIX,h-adashx4sg.ut.taobao.com
   - DOMAIN-SUFFIX,hads*s.com
   - DOMAIN-SUFFIX,havasedge.com
   - DOMAIN-SUFFIX,hb.yahoo.net
