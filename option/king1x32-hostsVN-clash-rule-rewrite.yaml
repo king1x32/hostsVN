@@ -163,6 +163,7 @@ payload:
   - DOMAIN-SUFFIX,log.news.zing.vn
   - DOMAIN-SUFFIX,log.thanhnien.vn
   - DOMAIN-SUFFIX,log.tv.zing.vn
+  - DOMAIN-SUFFIX,log.tv360.vn
   - DOMAIN-SUFFIX,log.vietnamplus.vn
   - DOMAIN-SUFFIX,log.zalo.video
   - DOMAIN-SUFFIX,log.zingmp3.vn
@@ -230,6 +231,7 @@ payload:
   - DOMAIN-SUFFIX,promotionbar.sapoapps.vn
   - DOMAIN-SUFFIX,promotionpopup.sapoapps.vn
   - DOMAIN-SUFFIX,pub.akadigital.vn
+  - DOMAIN-SUFFIX,pubads-wiinvent.tv360.vn
   - DOMAIN-SUFFIX,public-gcs.subiz-cdn.com
   - DOMAIN-SUFFIX,pushdi.com
   - DOMAIN-SUFFIX,pushdy.com
@@ -2236,7 +2238,7 @@ payload:
   - DOMAIN-SUFFIX,ugdturner.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,ujm.hansel.io
-  - DOMAIN-SUFFIX,umdc.aliapp.org
+  - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,umengcloud.com
@@ -2373,7 +2375,6 @@ payload:
   - DOMAIN-SUFFIX,yllix.com
   - DOMAIN-SUFFIX,ylog.hiido.com
   - DOMAIN-SUFFIX,ylog.nimo.tv
-  - DOMAIN-SUFFIX,ynuf.aliapp.org
   - DOMAIN-SUFFIX,yodimedia.com
   - DOMAIN-SUFFIX,yomeno.xyz
   - DOMAIN-SUFFIX,youbora.com
@@ -2443,33 +2444,35 @@ payload:
   - DOMAIN-KEYWORD,umtrack
   - DOMAIN-KEYWORD,usage
   - DOMAIN-KEYWORD,vclick
-  - DOMAIN-REGEX,^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adx|adserver|adformat|analysis|analytics|banners?|click|counter|delivery|log|log-?\w+?|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|cn|org|info|io|net|vn|com.vn)
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+activities
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+advertiser
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+events
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+metrics
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+mobile_sdk_gk
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+model_asset
-  - DOMAIN-REGEX,^https?://graph.facebook.com/.+skadnetwork
-  - DOMAIN-REGEX,^https?://graph.facebook.com/network_ads_common
+  - DOMAIN-REGEX,^https?:\/\/(\w+\.)?(adclick|ads([0-9]+)?|adx|adserver|adformat|analysis|analytics|banners?|click|counter|delivery|log|pagead|stat|stats|statis|trace|track|tracking|uniad)\.\w+\.(com|cn|org|info|io|net|vn|com.vn)
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+activities
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+advertiser
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+events
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+metrics
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+mobile_sdk_gk
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+model_asset
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/.+skadnetwork
+  - DOMAIN-REGEX,^https?:\/\/graph.facebook.com/network_ads_common
   - DOMAIN-REGEX,^https?:\/\/.+\.facebook\.com\/.+event_log
   - DOMAIN-REGEX,^https?:\/\/.+\.facebook\.com\/.+infos
   - DOMAIN-REGEX,^https?:\/\/.+\.facebook\.com\/adnw_logging
   - DOMAIN-REGEX,^https?:\/\/.+\.facebook\.com\/adnw_sync
-  - DOMAIN-REGEX,^https?://graph.nhaccuatui.com/.+ads$
-  - DOMAIN-REGEX,^https?://graph.nhaccuatui.com/.+deviceinfo$
-  - DOMAIN-REGEX,^https?://graph.nhaccuatui.com/.+log$
-  - DOMAIN-REGEX,^https?://graph.nhaccuatui.com/.+trackings$
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/ad-logic
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/ads
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+ad_slot
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+banners
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+crashlytics
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+doubleclick
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+enabled-tracks
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+event
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+promoted
-  - DOMAIN-REGEX,^https?://spclient.wg.spotify.com/.+sponsored
+  - DOMAIN-REGEX,^https?:\/\/.+\.facebook\.com\/async
+  - DOMAIN-REGEX,^https?:\/\/.+\.fbsbx\.com\/paid_ads_pixel
+  - DOMAIN-REGEX,^https?:\/\/graph.nhaccuatui.com/.+ads$
+  - DOMAIN-REGEX,^https?:\/\/graph.nhaccuatui.com/.+deviceinfo$
+  - DOMAIN-REGEX,^https?:\/\/graph.nhaccuatui.com/.+log$
+  - DOMAIN-REGEX,^https?:\/\/graph.nhaccuatui.com/.+trackings$
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/ad-logic
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/ads
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+ad_slot
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+banners
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+crashlytics
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+doubleclick
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+enabled-tracks
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+event
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+promoted
+  - DOMAIN-REGEX,^https?:\/\/spclient.wg.spotify.com/.+sponsored
   - DOMAIN-REGEX,^https?:\/\/.+\.googlevideo\.com\/.+oad=
   - DOMAIN-REGEX,^https?:\/\/.+\.googlevideo\.com\/.+owc=
   - DOMAIN-REGEX,^https?:\/\/.+\.googlevideo\.com\/ptracking
