@@ -1535,6 +1535,7 @@ payload:
   - DOMAIN-SUFFIX,log-hl.snssdk.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
   - DOMAIN-SUFFIX,log-tb.sgsnssdk.com
+  - DOMAIN-SUFFIX,log-upload-os.hoyolab.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,log-verify.mob.com
   - DOMAIN-SUFFIX,log.api.useinsider.com
