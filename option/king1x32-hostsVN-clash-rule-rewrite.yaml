@@ -930,6 +930,7 @@ payload:
   - DOMAIN-SUFFIX,betweendigital.com
   - DOMAIN-SUFFIX,bfmio.com
   - DOMAIN-SUFFIX,bid.atmtd.com
+  - DOMAIN-SUFFIX,bid.ssp.bance.jp
   - DOMAIN-SUFFIX,bidadx.com
   - DOMAIN-SUFFIX,bidfilter.com
   - DOMAIN-SUFFIX,bidr.io
@@ -944,6 +945,7 @@ payload:
   - DOMAIN-SUFFIX,bizible.com
   - DOMAIN-SUFFIX,bizographics.com
   - DOMAIN-SUFFIX,bkrtx.com
+  - DOMAIN-SUFFIX,blcdog.com
   - DOMAIN-SUFFIX,blismedia.com
   - DOMAIN-SUFFIX,blogherads.com
   - DOMAIN-SUFFIX,blueadss.com
@@ -1004,6 +1006,7 @@ payload:
   - DOMAIN-SUFFIX,cc.sys.miui.com
   - DOMAIN-SUFFIX,ccc.sys.intl.xiaomi.com
   - DOMAIN-SUFFIX,ccc.sys.miui.com
+  - DOMAIN-SUFFIX,ccgateway.net
   - DOMAIN-SUFFIX,ccpa.psg.nexstardigital.net
   - DOMAIN-SUFFIX,cdn.amplitude.com
   - DOMAIN-SUFFIX,cdn.avantisvideo.com
@@ -1264,9 +1267,11 @@ payload:
   - DOMAIN-SUFFIX,eyeota.net
   - DOMAIN-SUFFIX,ezmob.com
   - DOMAIN-SUFFIX,ezodn.com
+  - DOMAIN-SUFFIX,ezoic.net
   - DOMAIN-SUFFIX,fads*s.com
   - DOMAIN-SUFFIX,fads*z.com
   - DOMAIN-SUFFIX,faktor.io
+  - DOMAIN-SUFFIX,fastclick.net
   - DOMAIN-SUFFIX,fatchilli.media
   - DOMAIN-SUFFIX,fclick-adnow.com
   - DOMAIN-SUFFIX,fclog.baidu.com
@@ -1422,6 +1427,7 @@ payload:
   - DOMAIN-SUFFIX,im-apps.net
   - DOMAIN-SUFFIX,imhd.io
   - DOMAIN-SUFFIX,imonomy.com
+  - DOMAIN-SUFFIX,impact-ad.jp
   - DOMAIN-SUFFIX,impactify.io
   - DOMAIN-SUFFIX,impactify.media
   - DOMAIN-SUFFIX,impactradius-event.com
@@ -1486,6 +1492,7 @@ payload:
   - DOMAIN-SUFFIX,jpush.io
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,js-sdk.analytics-data.io
+  - DOMAIN-SUFFIX,js.ssp.bance.jp
   - DOMAIN-SUFFIX,js.users.51.la
   - DOMAIN-SUFFIX,js7k.com
   - DOMAIN-SUFFIX,jscount.com
@@ -1756,6 +1763,7 @@ payload:
   - DOMAIN-SUFFIX,onthe.io
   - DOMAIN-SUFFIX,openx.com
   - DOMAIN-SUFFIX,openx.net
+  - DOMAIN-SUFFIX,openxcdn.net
   - DOMAIN-SUFFIX,opmnstr.com
   - DOMAIN-SUFFIX,opoxv.com
   - DOMAIN-SUFFIX,optad360.com
@@ -1862,6 +1870,7 @@ payload:
   - DOMAIN-SUFFIX,prod-collecticon.outlookmobile.com
   - DOMAIN-SUFFIX,prod.*.analytics.console.aws.a2z.com
   - DOMAIN-SUFFIX,prod.*.publishers.advertising.a2z.com
+  - DOMAIN-SUFFIX,prod.uidapi.com
   - DOMAIN-SUFFIX,promo-*.vercel.app
   - DOMAIN-SUFFIX,promoted.soundcloud.com
   - DOMAIN-SUFFIX,promotionalads.yahoo.co.jp
@@ -1957,6 +1966,7 @@ payload:
   - DOMAIN-SUFFIX,rmtag.com
   - DOMAIN-SUFFIX,rpdn.relateddigital.com
   - DOMAIN-SUFFIX,rqmob.com
+  - DOMAIN-SUFFIX,rtbhouse.com
   - DOMAIN-SUFFIX,rtbsuperhub.com
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
   - DOMAIN-SUFFIX,rtgio.co
@@ -2181,6 +2191,7 @@ payload:
   - DOMAIN-SUFFIX,tr.attribuly.com
   - DOMAIN-SUFFIX,tr.line.me
   - DOMAIN-SUFFIX,tr.snapchat.com
+  - DOMAIN-SUFFIX,tr.ssp.bance.jp
   - DOMAIN-SUFFIX,tr6.snapchat.com
   - DOMAIN-SUFFIX,trace.qq.com
   - DOMAIN-SUFFIX,track.analytics-data.io
@@ -2270,6 +2281,7 @@ payload:
   - DOMAIN-SUFFIX,userreport.com
   - DOMAIN-SUFFIX,userreporting.cloud.unity3d.com
   - DOMAIN-SUFFIX,usp1.baidu.com
+  - DOMAIN-SUFFIX,ust-ad.com
   - DOMAIN-SUFFIX,v*.denakop.com
   - DOMAIN-SUFFIX,v.shopify.com
   - DOMAIN-SUFFIX,v16-ad.byteoversea.com
@@ -2351,6 +2363,7 @@ payload:
   - DOMAIN-SUFFIX,xapads.com
   - DOMAIN-SUFFIX,xdrig.com
   - DOMAIN-SUFFIX,ximad.com
+  - DOMAIN-SUFFIX,xlirdr.com
   - DOMAIN-SUFFIX,xlisting.jp
   - DOMAIN-SUFFIX,xlmc.sec.miui.com
   - DOMAIN-SUFFIX,xlog-va.tiktokv.com
