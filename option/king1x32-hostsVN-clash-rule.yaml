@@ -924,6 +924,7 @@ payload:
   - DOMAIN-SUFFIX,bebi.com
   - DOMAIN-SUFFIX,beesads.com
   - DOMAIN-SUFFIX,beop.io
+  - DOMAIN-SUFFIX,berryessa.stats.live-video.net
   - DOMAIN-SUFFIX,bestcontentfood.top
   - DOMAIN-SUFFIX,bestfreecounterstat.com
   - DOMAIN-SUFFIX,betrad.com
@@ -1836,6 +1837,7 @@ payload:
   - DOMAIN-SUFFIX,pixels.spotify.com
   - DOMAIN-SUFFIX,pixfuture.com
   - DOMAIN-SUFFIX,platform.tumblr.com
+  - DOMAIN-SUFFIX,player.stats.live-video.net
   - DOMAIN-SUFFIX,playstream.media
   - DOMAIN-SUFFIX,pmddby.com
   - DOMAIN-SUFFIX,pncloudfl.com
@@ -1856,6 +1858,8 @@ payload:
   - DOMAIN-SUFFIX,pps-log.op-mobile.opera.com
   - DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com
   - DOMAIN-SUFFIX,pr.comet.yahoo.com
+  - DOMAIN-SUFFIX,prd1.personalization.centech.glulive.com
+  - DOMAIN-SUFFIX,prd1.revid.centech.glulive.com
   - DOMAIN-SUFFIX,prdredir.com
   - DOMAIN-SUFFIX,prebid.org
   - DOMAIN-SUFFIX,predataclient.b-cdn.net
