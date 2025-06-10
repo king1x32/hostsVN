@@ -943,6 +943,7 @@ payload:
   - DOMAIN-SUFFIX,bigbangads.go2cloud.org
   - DOMAIN-SUFFIX,bilsyndication.com
   - DOMAIN-SUFFIX,bingads.microsoft.com
+  - DOMAIN-SUFFIX,birdgesdk.com
   - DOMAIN-SUFFIX,bitmedia.io
   - DOMAIN-SUFFIX,bitmedianetwork.com
   - DOMAIN-SUFFIX,bizible.com
@@ -970,6 +971,7 @@ payload:
   - DOMAIN-SUFFIX,brdtnet.com
   - DOMAIN-SUFFIX,breaktime.com.tw
   - DOMAIN-SUFFIX,brealtime.com
+  - DOMAIN-SUFFIX,bridgeoos.com
   - DOMAIN-SUFFIX,bright-sdk.com
   - DOMAIN-SUFFIX,brightdata.com
   - DOMAIN-SUFFIX,brightdata.de
@@ -2193,6 +2195,7 @@ payload:
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
   - DOMAIN-SUFFIX,top.mail.ru
   - DOMAIN-SUFFIX,toponad.com
+  - DOMAIN-SUFFIX,toponadss.com
   - DOMAIN-SUFFIX,tpstelemetry.tencent.com
   - DOMAIN-SUFFIX,tr.attribuly.com
   - DOMAIN-SUFFIX,tr.line.me
