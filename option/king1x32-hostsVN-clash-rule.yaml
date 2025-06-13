@@ -112,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,customers.fptad.com
   - DOMAIN-SUFFIX,dable.io
   - DOMAIN-SUFFIX,daleriki.com
+  - DOMAIN-SUFFIX,dantocmiennui-log.baotintuc.vn
   - DOMAIN-SUFFIX,delivery.akadigital.vn
   - DOMAIN-SUFFIX,delivery.vtc.vn
   - DOMAIN-SUFFIX,delivery.vtcnew.com.vn
@@ -121,6 +122,8 @@ payload:
   - DOMAIN-SUFFIX,dtadnetwork.com
   - DOMAIN-SUFFIX,eclick.vn
   - DOMAIN-SUFFIX,elogs.vnexpress.net
+  - DOMAIN-SUFFIX,en-log.vietnamplus.vn
+  - DOMAIN-SUFFIX,es-log.vietnamplus.vn
   - DOMAIN-SUFFIX,eva-ad.24hstatic.com
   - DOMAIN-SUFFIX,ezca.asia
   - DOMAIN-SUFFIX,facebook-ads.hara.vn
@@ -128,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,ff.imacdn.com
   - DOMAIN-SUFFIX,fly-ads.net
   - DOMAIN-SUFFIX,flygame.io
+  - DOMAIN-SUFFIX,fr-log.vietnamplus.vn
   - DOMAIN-SUFFIX,fuseplatform.net
   - DOMAIN-SUFFIX,gammaplatform.com
   - DOMAIN-SUFFIX,gammassp.com
@@ -251,6 +255,7 @@ payload:
   - DOMAIN-SUFFIX,quangcao.tuoitre.vn
   - DOMAIN-SUFFIX,realclick.vn
   - DOMAIN-SUFFIX,rec.aiservice.vn
+  - DOMAIN-SUFFIX,ru-log.vietnamplus.vn
   - DOMAIN-SUFFIX,s-logperf.vnexpress.net
   - DOMAIN-SUFFIX,s.tuoitre.vn
   - DOMAIN-SUFFIX,sbbanner-com.cdn.ampproject.org
@@ -343,6 +348,7 @@ payload:
   - DOMAIN-SUFFIX,zalo-ads-td.zadn.vn
   - DOMAIN-SUFFIX,zalo-ads.zadn.vn
   - DOMAIN-SUFFIX,zaloads-480.zdn.vn
+  - DOMAIN-SUFFIX,zh-log.vietnamplus.vn
   - DOMAIN-SUFFIX,zlog.mp3.zing.vn
   - DOMAIN-SUFFIX,zlog.zingmp3.vn
   - DOMAIN-SUFFIX,zminer.zaloapp.com
@@ -2113,7 +2119,6 @@ payload:
   - DOMAIN-SUFFIX,stats.shopify.com
   - DOMAIN-SUFFIX,stats.unity3d.com
   - DOMAIN-SUFFIX,statserv.net
-  - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,statsperformdev.com
   - DOMAIN-SUFFIX,statt-collect.herokuapp.com
   - DOMAIN-SUFFIX,statwup.nimo.tv
