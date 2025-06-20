@@ -981,7 +981,10 @@ payload:
   - DOMAIN-SUFFIX,bright-sdk.com
   - DOMAIN-SUFFIX,brightdata.com
   - DOMAIN-SUFFIX,brightdata.de
+  - DOMAIN-SUFFIX,browser-intake-*-datadoghq.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.eu
+  - DOMAIN-SUFFIX,browser-intake-ddog-gov.com
   - DOMAIN-SUFFIX,browser.events.data.msn.com
   - DOMAIN-SUFFIX,browsiprod.com
   - DOMAIN-SUFFIX,brznetwork.com
