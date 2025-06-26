@@ -919,6 +919,8 @@ payload:
   - DOMAIN-SUFFIX,batmobi.net
   - DOMAIN-SUFFIX,bats.video.yahoo.com
   - DOMAIN-SUFFIX,bbangads.b-cdn.net
+  - DOMAIN-SUFFIX,bdapi-ads.realmemobile.com
+  - DOMAIN-SUFFIX,bdapi-in-ads.realmemobile.com
   - DOMAIN-SUFFIX,bdtt.b-cdn.net
   - DOMAIN-SUFFIX,beacon-api.aliyuncs.com
   - DOMAIN-SUFFIX,beacon.affil.walmart.com
