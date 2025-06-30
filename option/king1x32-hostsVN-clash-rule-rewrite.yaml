@@ -1075,6 +1075,7 @@ payload:
   - DOMAIN-SUFFIX,clickcease.com
   - DOMAIN-SUFFIX,clicktale.net
   - DOMAIN-SUFFIX,clicktripz.com
+  - DOMAIN-SUFFIX,clientlogger.marketplace.aws.a2z.com
   - DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
   - DOMAIN-SUFFIX,clksite.com
   - DOMAIN-SUFFIX,clmbtech.com
@@ -1667,6 +1668,7 @@ payload:
   - DOMAIN-SUFFIX,metrics.cnn.com
   - DOMAIN-SUFFIX,metrics.data.hicloud.com
   - DOMAIN-SUFFIX,metrics.icloud.com
+  - DOMAIN-SUFFIX,metrics.imdb.a2z.com
   - DOMAIN-SUFFIX,metrics.mzstatic.com
   - DOMAIN-SUFFIX,metrics.samba.tv
   - DOMAIN-SUFFIX,metrics.walmart.com
@@ -1680,7 +1682,6 @@ payload:
   - DOMAIN-SUFFIX,microad.jp
   - DOMAIN-SUFFIX,microad.net
   - DOMAIN-SUFFIX,microadinc.com
-  - DOMAIN-SUFFIX,minerva.devices.a2z.com
   - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,mistat.*.xiaomi.com
   - DOMAIN-SUFFIX,mistat.xiaomi.com
