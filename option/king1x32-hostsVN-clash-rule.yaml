@@ -565,6 +565,7 @@ payload:
   - DOMAIN-SUFFIX,ads-trk.vidible.tv
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,ads.*.yahoo.com
+  - DOMAIN-SUFFIX,ads.amazon.dev
   - DOMAIN-SUFFIX,ads.bing.com
   - DOMAIN-SUFFIX,ads.cdn.rovio.com
   - DOMAIN-SUFFIX,ads.gmodules.com
@@ -678,6 +679,7 @@ payload:
   - DOMAIN-SUFFIX,advbanners.global.ssl.fastly.net
   - DOMAIN-SUFFIX,advergine.com
   - DOMAIN-SUFFIX,advertica.ae
+  - DOMAIN-SUFFIX,advertising.amazon.dev
   - DOMAIN-SUFFIX,advertising.com
   - DOMAIN-SUFFIX,advertising.microsoft.com
   - DOMAIN-SUFFIX,advertnative.com
@@ -876,7 +878,14 @@ payload:
   - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,assemblyexchange.com
   - DOMAIN-SUFFIX,assistads.net
+  - DOMAIN-SUFFIX,assoc-amazon.ca
+  - DOMAIN-SUFFIX,assoc-amazon.co.uk
   - DOMAIN-SUFFIX,assoc-amazon.com
+  - DOMAIN-SUFFIX,assoc-amazon.de
+  - DOMAIN-SUFFIX,assoc-amazon.es
+  - DOMAIN-SUFFIX,assoc-amazon.fr
+  - DOMAIN-SUFFIX,assoc-amazon.it
+  - DOMAIN-SUFFIX,assoc-amazon.jp
   - DOMAIN-SUFFIX,async-px-eu.dynamicyield.com
   - DOMAIN-SUFFIX,async-px.dynamicyield.com
   - DOMAIN-SUFFIX,atdmt.com
