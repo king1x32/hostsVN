@@ -698,6 +698,7 @@ payload:
   - DOMAIN-SUFFIX,adx1.com
   - DOMAIN-SUFFIX,adxadserv.com
   - DOMAIN-SUFFIX,adxcorp.kr
+  - DOMAIN-SUFFIX,adxnexus.com
   - DOMAIN-SUFFIX,adxoo.com
   - DOMAIN-SUFFIX,adxplay.com
   - DOMAIN-SUFFIX,adxpremium.services
@@ -1881,6 +1882,7 @@ payload:
   - DOMAIN-SUFFIX,pops.gg
   - DOMAIN-SUFFIX,popup.msn.com
   - DOMAIN-SUFFIX,popup.popupsmart.com
+  - DOMAIN-SUFFIX,popviking.com
   - DOMAIN-SUFFIX,pos.baidu.com
   - DOMAIN-SUFFIX,postrelease.com
   - DOMAIN-SUFFIX,powerlinks.com
@@ -2443,6 +2445,7 @@ payload:
   - DOMAIN-SUFFIX,zeotap.com
   - DOMAIN-SUFFIX,zergnet.com
   - DOMAIN-SUFFIX,zetadeo.com
+  - DOMAIN-SUFFIX,zeusadx.com
   - DOMAIN-SUFFIX,zog.link
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zucks.net
