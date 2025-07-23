@@ -402,6 +402,7 @@ payload:
   - DOMAIN-SUFFIX,abtasty.com
   - DOMAIN-SUFFIX,abtest.alibaba.com
   - DOMAIN-SUFFIX,accesstrade.net
+  - DOMAIN-SUFFIX,acertb.com
   - DOMAIN-SUFFIX,act.ds.kakao.com
   - DOMAIN-SUFFIX,acuityplatform.com
   - DOMAIN-SUFFIX,ad-brix.com
@@ -475,6 +476,7 @@ payload:
   - DOMAIN-SUFFIX,adeventtrackermonitoring.spotify.com
   - DOMAIN-SUFFIX,adexchangemachine.com
   - DOMAIN-SUFFIX,adflex.asia
+  - DOMAIN-SUFFIX,adflyer.media
   - DOMAIN-SUFFIX,adforcast.com
   - DOMAIN-SUFFIX,adform.net
   - DOMAIN-SUFFIX,adfox.yandex.ru
@@ -2007,6 +2009,7 @@ payload:
   - DOMAIN-SUFFIX,rtgio.co
   - DOMAIN-SUFFIX,rtlog.tiktokv.com
   - DOMAIN-SUFFIX,rtmark.net
+  - DOMAIN-SUFFIX,rtxfeed.com
   - DOMAIN-SUFFIX,rubiconproject.com
   - DOMAIN-SUFFIX,rudderlabs.com
   - DOMAIN-SUFFIX,rum.condenastdigital.com
