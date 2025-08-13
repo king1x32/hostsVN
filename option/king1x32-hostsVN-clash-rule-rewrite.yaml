@@ -2539,10 +2539,10 @@ payload:
   - DOMAIN-REGEX,^https?:\/\/.+\.googlevideo\.com\/videogoodput
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/.+adcontext
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/.+adformat
+  - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/.+adinteraction
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/.+get_ads
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/api\/stats\/ads
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/api\/stats\/atr
-  - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/api\/stats\/qoe
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/csi_204
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/error_204
   - DOMAIN-REGEX,^https?:\/\/.+\.youtube\.com\/gen_204
