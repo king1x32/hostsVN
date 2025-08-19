@@ -770,6 +770,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.adjust.io
   - DOMAIN-SUFFIX,analytics.adjust.net.in
   - DOMAIN-SUFFIX,analytics.adjust.world
+  - DOMAIN-SUFFIX,analytics.agoda.com
   - DOMAIN-SUFFIX,analytics.autodesk.com
   - DOMAIN-SUFFIX,analytics.bigdata.samsung.com
   - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
@@ -834,6 +835,8 @@ payload:
   - DOMAIN-SUFFIX,apm-collector.daumkakao.io
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,app-adforce.jp
+  - DOMAIN-SUFFIX,app-ads-services.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
   - DOMAIN-SUFFIX,app-analytics.snapchat.com
   - DOMAIN-SUFFIX,app-measurement.com
@@ -945,6 +948,7 @@ payload:
   - DOMAIN-SUFFIX,beaverads.com
   - DOMAIN-SUFFIX,bebi.com
   - DOMAIN-SUFFIX,beesads.com
+  - DOMAIN-SUFFIX,bento.agoda.com
   - DOMAIN-SUFFIX,beop.io
   - DOMAIN-SUFFIX,berryessa.stats.live-video.net
   - DOMAIN-SUFFIX,bestcontentfood.top
@@ -1115,6 +1119,7 @@ payload:
   - DOMAIN-SUFFIX,conductrics.com
   - DOMAIN-SUFFIX,confiant-integrations.global.ssl.fastly.net
   - DOMAIN-SUFFIX,confiant-integrations.net
+  - DOMAIN-SUFFIX,config.emb-api.com
   - DOMAIN-SUFFIX,config.hiido.com
   - DOMAIN-SUFFIX,config.mobilegamestats.com
   - DOMAIN-SUFFIX,config.sdk.scopely.io
@@ -1172,6 +1177,7 @@ payload:
   - DOMAIN-SUFFIX,daly2024.com
   - DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,data-sharing-consent.aprod.scopely.io
+  - DOMAIN-SUFFIX,data.emb-api.com
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,data.mob.com
   - DOMAIN-SUFFIX,data.sec.intl.miui.com
@@ -1697,6 +1703,7 @@ payload:
   - DOMAIN-SUFFIX,microad.jp
   - DOMAIN-SUFFIX,microad.net
   - DOMAIN-SUFFIX,microadinc.com
+  - DOMAIN-SUFFIX,minerva.devices.a2z.com
   - DOMAIN-SUFFIX,mintegral.net
   - DOMAIN-SUFFIX,mistat.*.xiaomi.com
   - DOMAIN-SUFFIX,mistat.xiaomi.com
@@ -1770,6 +1777,7 @@ payload:
   - DOMAIN-SUFFIX,nhnace.com
   - DOMAIN-SUFFIX,ninthdecimal.com
   - DOMAIN-SUFFIX,nmetrics.samsung.com
+  - DOMAIN-SUFFIX,noa.yahoo.com
   - DOMAIN-SUFFIX,nol.yahoo.com
   - DOMAIN-SUFFIX,notes-analytics-events.apple.com
   - DOMAIN-SUFFIX,nr-data.net
@@ -1833,6 +1841,7 @@ payload:
   - DOMAIN-SUFFIX,participants.evolv.ai
   - DOMAIN-SUFFIX,partnerad.l.google.com
   - DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
+  - DOMAIN-SUFFIX,partners.agoda.com
   - DOMAIN-SUFFIX,pbbl.co
   - DOMAIN-SUFFIX,pbstck.com
   - DOMAIN-SUFFIX,pc-mon.zijieapi.com
@@ -2293,6 +2302,7 @@ payload:
   - DOMAIN-SUFFIX,ucads.ucweb.com
   - DOMAIN-SUFFIX,udbdf-v2.nimo.tv
   - DOMAIN-SUFFIX,udc.msn.com
+  - DOMAIN-SUFFIX,udc.yahoo.com
   - DOMAIN-SUFFIX,ugdturner.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,ujm.hansel.io
