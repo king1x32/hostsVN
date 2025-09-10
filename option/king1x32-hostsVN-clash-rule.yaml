@@ -402,6 +402,7 @@ payload:
   - DOMAIN-SUFFIX,abtasty.com
   - DOMAIN-SUFFIX,abtest.alibaba.com
   - DOMAIN-SUFFIX,accesstrade.net
+  - DOMAIN-SUFFIX,ace.naver.com
   - DOMAIN-SUFFIX,acertb.com
   - DOMAIN-SUFFIX,act.ds.kakao.com
   - DOMAIN-SUFFIX,acuityplatform.com
@@ -428,7 +429,6 @@ payload:
   - DOMAIN-SUFFIX,ad.kakao.com
   - DOMAIN-SUFFIX,ad.kakaocorp.com
   - DOMAIN-SUFFIX,ad.mail.ru
-  - DOMAIN-SUFFIX,ad.naver.com
   - DOMAIN-SUFFIX,ad.plus
   - DOMAIN-SUFFIX,ad.qq.com
   - DOMAIN-SUFFIX,ad.style
@@ -505,7 +505,6 @@ payload:
   - DOMAIN-SUFFIX,adligature.com
   - DOMAIN-SUFFIX,adlightning.com
   - DOMAIN-SUFFIX,adlog.cbsi.com
-  - DOMAIN-SUFFIX,adlog.shopping.naver.com
   - DOMAIN-SUFFIX,adlogists.com
   - DOMAIN-SUFFIX,adlooxtracking.com
   - DOMAIN-SUFFIX,admanmedia.com
@@ -1271,6 +1270,7 @@ payload:
   - DOMAIN-SUFFIX,event.collector.scopely.io
   - DOMAIN-SUFFIX,event.condenastdigital.com
   - DOMAIN-SUFFIX,event.dfinery.io
+  - DOMAIN-SUFFIX,event.impression-neo.naver.com
   - DOMAIN-SUFFIX,eventgateway.soundcloud.com
   - DOMAIN-SUFFIX,eventlogger.soundcloud.com
   - DOMAIN-SUFFIX,eventreg.sphdigital.com
@@ -1495,6 +1495,7 @@ payload:
   - DOMAIN-SUFFIX,insights-collector.newrelic.com
   - DOMAIN-SUFFIX,insitez.blob.core.windows.net
   - DOMAIN-SUFFIX,inspectlet.com
+  - DOMAIN-SUFFIX,inspector-collector.m.naver.com
   - DOMAIN-SUFFIX,instant.page
   - DOMAIN-SUFFIX,instapagemetrics.com
   - DOMAIN-SUFFIX,insurads.com
@@ -1555,6 +1556,7 @@ payload:
   - DOMAIN-SUFFIX,leadboltads.net
   - DOMAIN-SUFFIX,leadforensics.com
   - DOMAIN-SUFFIX,leanplum.com
+  - DOMAIN-SUFFIX,lf-static.tiktokpangle-cdn-us.com
   - DOMAIN-SUFFIX,lfeeder.com
   - DOMAIN-SUFFIX,lgsmartad.com
   - DOMAIN-SUFFIX,liadm.com
@@ -1599,6 +1601,7 @@ payload:
   - DOMAIN-SUFFIX,log1.cmpassport.com
   - DOMAIN-SUFFIX,log2.cmpassport.com
   - DOMAIN-SUFFIX,log2.spotify.com
+  - DOMAIN-SUFFIX,logapi.tv.naver.com
   - DOMAIN-SUFFIX,logbak.hicloud.com
   - DOMAIN-SUFFIX,logger.applovefrom.com
   - DOMAIN-SUFFIX,logly.co.jp
@@ -1784,6 +1787,7 @@ payload:
   - DOMAIN-SUFFIX,nrich.ai
   - DOMAIN-SUFFIX,ns1p.net
   - DOMAIN-SUFFIX,nsclick.baidu.com
+  - DOMAIN-SUFFIX,ntracker-collector.naver.com
   - DOMAIN-SUFFIX,nxtck.com
   - DOMAIN-SUFFIX,o-s.io
   - DOMAIN-SUFFIX,o333o.com
@@ -2225,6 +2229,8 @@ payload:
   - DOMAIN-SUFFIX,themoneytizer.com
   - DOMAIN-SUFFIX,tia.timeinc.net
   - DOMAIN-SUFFIX,tiads.timeinc.net
+  - DOMAIN-SUFFIX,tiktokpangle-b.us
+  - DOMAIN-SUFFIX,tiktokpangle.us
   - DOMAIN-SUFFIX,tlog.hiido.com
   - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
   - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
@@ -2346,7 +2352,6 @@ payload:
   - DOMAIN-SUFFIX,vdo.ai
   - DOMAIN-SUFFIX,venatusmedia.com
   - DOMAIN-SUFFIX,vercel-insights.com
-  - DOMAIN-SUFFIX,veta.naver.com
   - DOMAIN-SUFFIX,vi-serve.com
   - DOMAIN-SUFFIX,viadata.store
   - DOMAIN-SUFFIX,videoadex.com
