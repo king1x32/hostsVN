@@ -444,6 +444,7 @@ payload:
   - DOMAIN-SUFFIX,ad4mat.net
   - DOMAIN-SUFFIX,adadvisor.net
   - DOMAIN-SUFFIX,adalyser.com
+  - DOMAIN-SUFFIX,adangle.online
   - DOMAIN-SUFFIX,adap.tv
   - DOMAIN-SUFFIX,adapf.com
   - DOMAIN-SUFFIX,adash.m.taobao.com
@@ -1110,7 +1111,11 @@ payload:
   - DOMAIN-SUFFIX,collecticon.outlookmobile.com
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
+  - DOMAIN-SUFFIX,collector-*.protechts.net
+  - DOMAIN-SUFFIX,collector-*.px-cdn.net
+  - DOMAIN-SUFFIX,collector-*.px-client.net
   - DOMAIN-SUFFIX,collector-*.px-cloud.net
+  - DOMAIN-SUFFIX,collector-*.pxchk.net
   - DOMAIN-SUFFIX,collector-*.tvsquared.com
   - DOMAIN-SUFFIX,collector-*.us.tvsquared.com
   - DOMAIN-SUFFIX,collector.scopely.io
