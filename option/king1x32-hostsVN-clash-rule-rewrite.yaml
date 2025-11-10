@@ -620,6 +620,7 @@ payload:
   - DOMAIN-SUFFIX,adsco.re
   - DOMAIN-SUFFIX,adsconex.com
   - DOMAIN-SUFFIX,adsdk.yandex.ru
+  - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN-SUFFIX,adserve.tv
   - DOMAIN-SUFFIX,adserve.work
   - DOMAIN-SUFFIX,adserver.bing.com
@@ -2186,6 +2187,7 @@ payload:
   - DOMAIN-SUFFIX,sworkitads.herokuapp.com
   - DOMAIN-SUFFIX,swrve.com
   - DOMAIN-SUFFIX,sync.quantumdex.io
+  - DOMAIN-SUFFIX,syndicatedsearch.goog
   - DOMAIN-SUFFIX,t.apkpure.net
   - DOMAIN-SUFFIX,t.imgur.com
   - DOMAIN-SUFFIX,t.indeed.com
