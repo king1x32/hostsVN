@@ -590,6 +590,7 @@ payload:
   - DOMAIN-SUFFIX,ads.rmbl.ws
   - DOMAIN-SUFFIX,ads.samba.tv
   - DOMAIN-SUFFIX,ads.snapchat.com
+  - DOMAIN-SUFFIX,ads.sportradar.com
   - DOMAIN-SUFFIX,ads.thesun.co.uk
   - DOMAIN-SUFFIX,ads.tiktok.com
   - DOMAIN-SUFFIX,ads.truecaller.com
@@ -1198,6 +1199,7 @@ payload:
   - DOMAIN-SUFFIX,deployads.com
   - DOMAIN-SUFFIX,dev.visualwebsiteoptimizer.com
   - DOMAIN-SUFFIX,dev2pub.com
+  - DOMAIN-SUFFIX,deviatetracking.com
   - DOMAIN-SUFFIX,device-metrics-us-2.amazon.com
   - DOMAIN-SUFFIX,device-metrics-us.amazon.com
   - DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
