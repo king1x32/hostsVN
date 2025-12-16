@@ -1295,6 +1295,7 @@
         "events-dra.op.hicloud.com",
         "events.api.secureserver.net",
         "events.avantisvideo.com",
+        "events.gfe.nvidia.com",
         "events.iap.unity3d.com",
         "events.mz.unity3d.com",
         "events.popinfo.jp",
@@ -1421,6 +1422,7 @@
         "guardianapps.co.uk",
         "gumgum.com",
         "gvt2.com",
+        "gx-target-experiments-frontend-api.gx.nvidia.com",
         "h-adashx.ut.alibaba.com",
         "h-adashx.ut.taobao.com",
         "h-adashx.ut.youku.com",
@@ -1943,6 +1945,7 @@
         "prod-collecticon.outlookmobile.com",
         "prod.*.analytics.console.aws.a2z.com",
         "prod.*.publishers.advertising.a2z.com",
+        "prod.otel.kaizen.nvidia.com",
         "prod.uidapi.com",
         "promo-*.vercel.app",
         "promoted.soundcloud.com",
@@ -2240,6 +2243,7 @@
         "techlab-cdn.com",
         "technoratimedia.com",
         "telemetrics.klaviyo.com",
+        "telemetry.gfe.nvidia.com",
         "telemetry.insights.video.a2z.com",
         "telemetry.microsoft.com",
         "telemetry.soundcloud.com",
@@ -2495,7 +2499,9 @@
         "zucks.net",
         "zybrdr.com",
         "appsflyer.com",
-        "appsflyersdk.com"
+        "appsflyersdk.com",
+        "xy.fbcdn.net",
+        "xz.fbcdn.net"
       ],
       "domain_keyword": [
         "adjust",

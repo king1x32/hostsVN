@@ -1289,6 +1289,7 @@ payload:
   - DOMAIN-SUFFIX,events-dra.op.hicloud.com
   - DOMAIN-SUFFIX,events.api.secureserver.net
   - DOMAIN-SUFFIX,events.avantisvideo.com
+  - DOMAIN-SUFFIX,events.gfe.nvidia.com
   - DOMAIN-SUFFIX,events.iap.unity3d.com
   - DOMAIN-SUFFIX,events.mz.unity3d.com
   - DOMAIN-SUFFIX,events.popinfo.jp
@@ -1415,6 +1416,7 @@ payload:
   - DOMAIN-SUFFIX,guardianapps.co.uk
   - DOMAIN-SUFFIX,gumgum.com
   - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gx-target-experiments-frontend-api.gx.nvidia.com
   - DOMAIN-SUFFIX,h-adashx.ut.alibaba.com
   - DOMAIN-SUFFIX,h-adashx.ut.taobao.com
   - DOMAIN-SUFFIX,h-adashx.ut.youku.com
@@ -1937,6 +1939,7 @@ payload:
   - DOMAIN-SUFFIX,prod-collecticon.outlookmobile.com
   - DOMAIN-SUFFIX,prod.*.analytics.console.aws.a2z.com
   - DOMAIN-SUFFIX,prod.*.publishers.advertising.a2z.com
+  - DOMAIN-SUFFIX,prod.otel.kaizen.nvidia.com
   - DOMAIN-SUFFIX,prod.uidapi.com
   - DOMAIN-SUFFIX,promo-*.vercel.app
   - DOMAIN-SUFFIX,promoted.soundcloud.com
@@ -2234,6 +2237,7 @@ payload:
   - DOMAIN-SUFFIX,techlab-cdn.com
   - DOMAIN-SUFFIX,technoratimedia.com
   - DOMAIN-SUFFIX,telemetrics.klaviyo.com
+  - DOMAIN-SUFFIX,telemetry.gfe.nvidia.com
   - DOMAIN-SUFFIX,telemetry.insights.video.a2z.com
   - DOMAIN-SUFFIX,telemetry.microsoft.com
   - DOMAIN-SUFFIX,telemetry.soundcloud.com
@@ -2490,6 +2494,8 @@ payload:
   - DOMAIN-SUFFIX,zybrdr.com
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,xy.fbcdn.net
+  - DOMAIN-SUFFIX,xz.fbcdn.net
   - DOMAIN-KEYWORD,adjust
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
