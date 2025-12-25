@@ -712,6 +712,7 @@ payload:
   - DOMAIN-SUFFIX,aegis.qq.com
   - DOMAIN-SUFFIX,aem-collector-*.kgslb.com
   - DOMAIN-SUFFIX,aem-collector.daumkakao.io
+  - DOMAIN-SUFFIX,aepxlg.adobe.com
   - DOMAIN-SUFFIX,aerserv.com
   - DOMAIN-SUFFIX,afd.baidu.com
   - DOMAIN-SUFFIX,aff-online.com
@@ -1942,6 +1943,7 @@ payload:
   - DOMAIN-SUFFIX,prod.otel.kaizen.nvidia.com
   - DOMAIN-SUFFIX,prod.uidapi.com
   - DOMAIN-SUFFIX,promo-*.vercel.app
+  - DOMAIN-SUFFIX,promo.psvgamestudio.com
   - DOMAIN-SUFFIX,promoted.soundcloud.com
   - DOMAIN-SUFFIX,promotionalads.yahoo.co.jp
   - DOMAIN-SUFFIX,propellerads.com
@@ -1951,6 +1953,7 @@ payload:
   - DOMAIN-SUFFIX,provenpixel.com
   - DOMAIN-SUFFIX,proxy-skadnetwork.apple.com
   - DOMAIN-SUFFIX,pssy.xyz
+  - DOMAIN-SUFFIX,psvpromo.psvgamestudio.com
   - DOMAIN-SUFFIX,ptengine.cn
   - DOMAIN-SUFFIX,ptengine.com
   - DOMAIN-SUFFIX,ptengine.jp
