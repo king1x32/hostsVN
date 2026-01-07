@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,ants.vn
   - DOMAIN-SUFFIX,anymind360-com.cdn.ampproject.org
   - DOMAIN-SUFFIX,anymind360.com
+  - DOMAIN-SUFFIX,api.moneyoyo.org
   - DOMAIN-SUFFIX,api.nas.nct.vn
   - DOMAIN-SUFFIX,api.subiz.com.vn
   - DOMAIN-SUFFIX,api.subiz.net
@@ -128,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,ezca.asia
   - DOMAIN-SUFFIX,facebook-ads.hara.vn
   - DOMAIN-SUFFIX,facebookinbox-omni-onapp.haravan.com
+  - DOMAIN-SUFFIX,feed.moneyoyo.org
   - DOMAIN-SUFFIX,ff.imacdn.com
   - DOMAIN-SUFFIX,fly-ads.net
   - DOMAIN-SUFFIX,flygame.io
@@ -259,6 +261,7 @@ payload:
   - DOMAIN-SUFFIX,s-logperf.vnexpress.net
   - DOMAIN-SUFFIX,s.tuoitre.vn
   - DOMAIN-SUFFIX,sbbanner-com.cdn.ampproject.org
+  - DOMAIN-SUFFIX,sdk.moneyoyo.com
   - DOMAIN-SUFFIX,sdk.zadn.vn
   - DOMAIN-SUFFIX,service-api.accesstrade.vn
   - DOMAIN-SUFFIX,service.adlinknetwork.vn
