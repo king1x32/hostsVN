@@ -560,6 +560,7 @@ payload:
   - DOMAIN-SUFFIX,ads-d.viber.com
   - DOMAIN-SUFFIX,ads-delivery.b-cdn.net
   - DOMAIN-SUFFIX,ads-dev.pinterest.com
+  - DOMAIN-SUFFIX,ads-img.mozilla.org
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com
   - DOMAIN-SUFFIX,ads-resources-legacy.waze.com
@@ -972,6 +973,7 @@ payload:
   - DOMAIN-SUFFIX,bidtheatre.com
   - DOMAIN-SUFFIX,bidvertiser.com
   - DOMAIN-SUFFIX,bigbangads.go2cloud.org
+  - DOMAIN-SUFFIX,biggestplayer.cachefly.net
   - DOMAIN-SUFFIX,bilsyndication.com
   - DOMAIN-SUFFIX,bingads.microsoft.com
   - DOMAIN-SUFFIX,birdgesdk.com
@@ -1468,7 +1470,6 @@ payload:
   - DOMAIN-SUFFIX,iad-05.braze.com
   - DOMAIN-SUFFIX,iad-06.braze.com
   - DOMAIN-SUFFIX,iad-08.braze.com
-  - DOMAIN-SUFFIX,iad.apple.com
   - DOMAIN-SUFFIX,iads.unity3d.com
   - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,ibeat.indiatimes.com
@@ -1534,6 +1535,7 @@ payload:
   - DOMAIN-SUFFIX,ispot.tv
   - DOMAIN-SUFFIX,ivitrack.com
   - DOMAIN-SUFFIX,ivstracker.net
+  - DOMAIN-SUFFIX,iwad.cachefly.net
   - DOMAIN-SUFFIX,izooto.com
   - DOMAIN-SUFFIX,jac.yahoosandbox.com
   - DOMAIN-SUFFIX,jads.co
@@ -1706,6 +1708,7 @@ payload:
   - DOMAIN-SUFFIX,meter-svc.nytimes.com
   - DOMAIN-SUFFIX,metok.sys.miui.com
   - DOMAIN-SUFFIX,metric.nimo.tv
+  - DOMAIN-SUFFIX,metrics-config.icloud.com
   - DOMAIN-SUFFIX,metrics-dra.dt.hicloud.com
   - DOMAIN-SUFFIX,metrics-logger.spot.im
   - DOMAIN-SUFFIX,metrics.cnn.com
@@ -2003,6 +2006,7 @@ payload:
   - DOMAIN-SUFFIX,rayjump.com
   - DOMAIN-SUFFIX,reactful.com
   - DOMAIN-SUFFIX,readpeak.com
+  - DOMAIN-SUFFIX,readserver.cachefly.net
   - DOMAIN-SUFFIX,realsrv.com
   - DOMAIN-SUFFIX,realsrvcdn.com
   - DOMAIN-SUFFIX,redintelligence.net
@@ -2081,6 +2085,7 @@ payload:
   - DOMAIN-SUFFIX,sdklog.tvstore.opera.com
   - DOMAIN-SUFFIX,seal.globalsign.com
   - DOMAIN-SUFFIX,securemetrics.apple.com
+  - DOMAIN-SUFFIX,sedo.cachefly.net
   - DOMAIN-SUFFIX,segment.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,segment.psg.nexstardigital.net
@@ -2286,6 +2291,7 @@ payload:
   - DOMAIN-SUFFIX,track.thesaurus.com
   - DOMAIN-SUFFIX,track.uc.cn
   - DOMAIN-SUFFIX,track1.avplayer.com
+  - DOMAIN-SUFFIX,trackdesk.com
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.ai.xiaomi.com
   - DOMAIN-SUFFIX,tracker.idocdn.com
@@ -2462,6 +2468,8 @@ payload:
   - DOMAIN-SUFFIX,xoom-ads.com
   - DOMAIN-SUFFIX,xtremepush.com
   - DOMAIN-SUFFIX,xxxjmp.com
+  - DOMAIN-SUFFIX,xy.fbcdn.net
+  - DOMAIN-SUFFIX,xz.fbcdn.net
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yads.yahoo.co.jp
@@ -2500,8 +2508,6 @@ payload:
   - DOMAIN-SUFFIX,zybrdr.com
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,xy.fbcdn.net
-  - DOMAIN-SUFFIX,xz.fbcdn.net
   - DOMAIN-KEYWORD,adjust
   - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
