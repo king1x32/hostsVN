@@ -434,6 +434,7 @@ payload:
   - DOMAIN-SUFFIX,ad.plus
   - DOMAIN-SUFFIX,ad.qq.com
   - DOMAIN-SUFFIX,ad.style
+  - DOMAIN-SUFFIX,ad.tiktokv.us
   - DOMAIN-SUFFIX,ad.weibo.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad.youku.com
@@ -560,6 +561,7 @@ payload:
   - DOMAIN-SUFFIX,ads-d.viber.com
   - DOMAIN-SUFFIX,ads-delivery.b-cdn.net
   - DOMAIN-SUFFIX,ads-dev.pinterest.com
+  - DOMAIN-SUFFIX,ads-ie.tiktokw.eu
   - DOMAIN-SUFFIX,ads-img.mozilla.org
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com
@@ -568,6 +570,7 @@ payload:
   - DOMAIN-SUFFIX,ads-router-noneu.truecaller.com
   - DOMAIN-SUFFIX,ads-sg.tiktok.com
   - DOMAIN-SUFFIX,ads-trk.vidible.tv
+  - DOMAIN-SUFFIX,ads-ttp2.tiktokw.eu
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,ads.*.yahoo.com
   - DOMAIN-SUFFIX,ads.amazon.dev
@@ -597,6 +600,7 @@ payload:
   - DOMAIN-SUFFIX,ads.sportradar.com
   - DOMAIN-SUFFIX,ads.thesun.co.uk
   - DOMAIN-SUFFIX,ads.tiktok.com
+  - DOMAIN-SUFFIX,ads.tiktokw.us
   - DOMAIN-SUFFIX,ads.truecaller.com
   - DOMAIN-SUFFIX,ads.tvb.com
   - DOMAIN-SUFFIX,ads.twitter.com
@@ -770,8 +774,10 @@ payload:
   - DOMAIN-SUFFIX,analysis.fi
   - DOMAIN-SUFFIX,analytics-ad-*.kgslb.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,analytics-ie.tiktokw.eu
   - DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us
   - DOMAIN-SUFFIX,analytics-sg.tiktok.com
+  - DOMAIN-SUFFIX,analytics-ttp2.tiktokw.eu
   - DOMAIN-SUFFIX,analytics.365scores.com
   - DOMAIN-SUFFIX,analytics.adjust.cn
   - DOMAIN-SUFFIX,analytics.adjust.com
@@ -799,6 +805,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.starmakerstudios.com
   - DOMAIN-SUFFIX,analytics.tango.me
   - DOMAIN-SUFFIX,analytics.tiktok.com
+  - DOMAIN-SUFFIX,analytics.tiktokw.us
   - DOMAIN-SUFFIX,analytics.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.unity3d.com
   - DOMAIN-SUFFIX,analytics.us.tiktok.com
@@ -913,9 +920,13 @@ payload:
   - DOMAIN-SUFFIX,audid-api.taobao.com
   - DOMAIN-SUFFIX,audrte.com
   - DOMAIN-SUFFIX,authbe.sec.intl.miui.com
+  - DOMAIN-SUFFIX,auto-load-balancer.likr.com.tw
+  - DOMAIN-SUFFIX,auto-load-balancer.likr.tw
   - DOMAIN-SUFFIX,automatad.com
   - DOMAIN-SUFFIX,auxml.com
   - DOMAIN-SUFFIX,avazutracking.net
+  - DOMAIN-SUFFIX,avivid.likr.tw
+  - DOMAIN-SUFFIX,avividone.likr.tw
   - DOMAIN-SUFFIX,awaps.yandex.net
   - DOMAIN-SUFFIX,awaps.yandex.ru
   - DOMAIN-SUFFIX,awin1.com
@@ -1024,6 +1035,7 @@ payload:
   - DOMAIN-SUFFIX,bugly.qq.com
   - DOMAIN-SUFFIX,bumlam.com
   - DOMAIN-SUFFIX,business-api.tiktok.com
+  - DOMAIN-SUFFIX,business-api.tiktokw.us
   - DOMAIN-SUFFIX,buysellads.com
   - DOMAIN-SUFFIX,buysellads.net
   - DOMAIN-SUFFIX,buzzoola.com
@@ -1298,6 +1310,7 @@ payload:
   - DOMAIN-SUFFIX,events.gfe.nvidia.com
   - DOMAIN-SUFFIX,events.iap.unity3d.com
   - DOMAIN-SUFFIX,events.mz.unity3d.com
+  - DOMAIN-SUFFIX,events.newsroom.bi
   - DOMAIN-SUFFIX,events.popinfo.jp
   - DOMAIN-SUFFIX,events.reddit.com
   - DOMAIN-SUFFIX,everestop.io
@@ -1474,6 +1487,7 @@ payload:
   - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,ibeat.indiatimes.com
   - DOMAIN-SUFFIX,ibillboard.com
+  - DOMAIN-SUFFIX,icu.newsroom.bi
   - DOMAIN-SUFFIX,id5-sync.com
   - DOMAIN-SUFFIX,idealmedia.io
   - DOMAIN-SUFFIX,ilyonanalytics.herokuapp.com
@@ -1679,10 +1693,13 @@ payload:
   - DOMAIN-SUFFIX,mazu.sec.miui.com
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,mc.yandex.ru
+  - DOMAIN-SUFFIX,mcs-ie.tiktokw.eu
+  - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com
   - DOMAIN-SUFFIX,mcs-va.capcutapi.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,mcs.tiktokv.us
   - DOMAIN-SUFFIX,mcs.tiktokw.us
   - DOMAIN-SUFFIX,mcs.zijieapi.com
   - DOMAIN-SUFFIX,mcs16-normal-us-ttp.capcutapi.us
@@ -1780,6 +1797,7 @@ payload:
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,msgapp.com
   - DOMAIN-SUFFIX,mssdk.capcutapi.us
+  - DOMAIN-SUFFIX,mssdk.tiktokw.eu
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
   - DOMAIN-SUFFIX,mstorer.net
   - DOMAIN-SUFFIX,mtgglobals.com
