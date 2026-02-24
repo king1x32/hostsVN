@@ -729,6 +729,7 @@ payload:
   - DOMAIN-SUFFIX,afp.ai
   - DOMAIN-SUFFIX,agentanalytics.com
   - DOMAIN-SUFFIX,agkn.com
+  - DOMAIN-SUFFIX,agl006.host
   - DOMAIN-SUFFIX,ahoy-internal-ads-hv.b-cdn.net
   - DOMAIN-SUFFIX,aicactus.io
   - DOMAIN-SUFFIX,aidata.io
@@ -789,6 +790,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.bigdata.samsung.com
   - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.edgekey.net
+  - DOMAIN-SUFFIX,analytics.eu.adjust.com
   - DOMAIN-SUFFIX,analytics.ff.avast.com
   - DOMAIN-SUFFIX,analytics.google.com
   - DOMAIN-SUFFIX,analytics.live.com
@@ -1259,6 +1261,7 @@ payload:
   - DOMAIN-SUFFIX,drfdisvc.walmart.com
   - DOMAIN-SUFFIX,ds-aksb-a.akamaihd.net
   - DOMAIN-SUFFIX,dsb.yahoo.co.jp
+  - DOMAIN-SUFFIX,dsp-api.moloco.com
   - DOMAIN-SUFFIX,dspmulti.com
   - DOMAIN-SUFFIX,dtscout.com
   - DOMAIN-SUFFIX,du8783wkf05yr.cloudfront.net
