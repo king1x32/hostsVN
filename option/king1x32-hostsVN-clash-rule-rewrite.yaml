@@ -1802,9 +1802,11 @@ payload:
   - DOMAIN-SUFFIX,mondiad.net
   - DOMAIN-SUFFIX,mookie1.com
   - DOMAIN-SUFFIX,mopub.com
+  - DOMAIN-SUFFIX,mossfast.com
   - DOMAIN-SUFFIX,mosspf.cn
   - DOMAIN-SUFFIX,mosspf.com
   - DOMAIN-SUFFIX,mosspf.net
+  - DOMAIN-SUFFIX,mossru.com
   - DOMAIN-SUFFIX,mossturbo.com
   - DOMAIN-SUFFIX,mouseflow.com
   - DOMAIN-SUFFIX,movad.net
