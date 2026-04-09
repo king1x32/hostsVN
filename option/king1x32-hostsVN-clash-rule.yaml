@@ -1248,10 +1248,12 @@ payload:
   - DOMAIN-SUFFIX,dlog.hiido.com
   - DOMAIN-SUFFIX,dlswbr.baidu.com
   - DOMAIN-SUFFIX,dm-event.net
+  - DOMAIN-SUFFIX,dmads.dailymotion.com
   - DOMAIN-SUFFIX,dmpxs.com
   - DOMAIN-SUFFIX,dmrtb.com
   - DOMAIN-SUFFIX,dmtracking.alibaba.com
   - DOMAIN-SUFFIX,dmtracking2.alibaba.com
+  - DOMAIN-SUFFIX,dmxleo.dailymotion.com
   - DOMAIN-SUFFIX,dmzjmp.com
   - DOMAIN-SUFFIX,domnovrek.com
   - DOMAIN-SUFFIX,doppler-reporting.cbsivideo.com
@@ -1882,6 +1884,7 @@ payload:
   - DOMAIN-SUFFIX,optimize.google.com
   - DOMAIN-SUFFIX,optimizesrv.com
   - DOMAIN-SUFFIX,optmnstr.com
+  - DOMAIN-SUFFIX,optoutadvertising.com
   - DOMAIN-SUFFIX,optvx.com
   - DOMAIN-SUFFIX,orbsrv.com
   - DOMAIN-SUFFIX,os-mon.zijieapi.com
@@ -2176,6 +2179,7 @@ payload:
   - DOMAIN-SUFFIX,smrtb.com
   - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,snigelweb.com
+  - DOMAIN-SUFFIX,snowflake.qq.com
   - DOMAIN-SUFFIX,socdm.com
   - DOMAIN-SUFFIX,sociaplus.com
   - DOMAIN-SUFFIX,sofire.baidu.com
