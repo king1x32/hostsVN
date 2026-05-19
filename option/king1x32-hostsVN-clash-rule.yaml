@@ -1693,6 +1693,7 @@ payload:
   - DOMAIN-SUFFIX,mahimeta.com
   - DOMAIN-SUFFIX,mail-ads.google.com
   - DOMAIN-SUFFIX,mainadv.com
+  - DOMAIN-SUFFIX,mainexclkdir.com
   - DOMAIN-SUFFIX,maio.jp
   - DOMAIN-SUFFIX,marchex.io
   - DOMAIN-SUFFIX,marfeel.com
@@ -2118,6 +2119,7 @@ payload:
   - DOMAIN-SUFFIX,rtgio.co
   - DOMAIN-SUFFIX,rtlog.tiktokv.com
   - DOMAIN-SUFFIX,rtmark.net
+  - DOMAIN-SUFFIX,rttrk.com
   - DOMAIN-SUFFIX,rtxfeed.com
   - DOMAIN-SUFFIX,rubiconproject.com
   - DOMAIN-SUFFIX,rudderlabs.com
@@ -2304,6 +2306,7 @@ payload:
   - DOMAIN-SUFFIX,tapdaq-adverts.global.ssl.fastly.net
   - DOMAIN-SUFFIX,tapdb.com
   - DOMAIN-SUFFIX,tapdb.net
+  - DOMAIN-SUFFIX,tapfiliate.com
   - DOMAIN-SUFFIX,tapjoy.com
   - DOMAIN-SUFFIX,tapjoy.go2cloud.org
   - DOMAIN-SUFFIX,tapjoyads.com
