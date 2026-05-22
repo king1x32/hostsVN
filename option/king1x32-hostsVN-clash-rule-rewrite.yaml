@@ -661,6 +661,7 @@ payload:
   - DOMAIN-SUFFIX,adsrv.net
   - DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-SUFFIX,adssettings.365scores.com
+  - DOMAIN-SUFFIX,adstag0102.xyz
   - DOMAIN-SUFFIX,adstage-analytics.herokuapp.com
   - DOMAIN-SUFFIX,adstatic.b-cdn.net
   - DOMAIN-SUFFIX,adsterra.org
