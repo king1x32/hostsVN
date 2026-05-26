@@ -1377,6 +1377,7 @@ payload:
   - DOMAIN-SUFFIX,fourier.taobao.com
   - DOMAIN-SUFFIX,fout.jp
   - DOMAIN-SUFFIX,fp-cdn.azureedge.net
+  - DOMAIN-SUFFIX,fpjs.io
   - DOMAIN-SUFFIX,fqtag.com
   - DOMAIN-SUFFIX,fra-*.braze.eu
   - DOMAIN-SUFFIX,freshmarketer.com
@@ -1448,6 +1449,7 @@ payload:
   - DOMAIN-SUFFIX,gssprt.jp
   - DOMAIN-SUFFIX,guardianapps.co.uk
   - DOMAIN-SUFFIX,gumgum.com
+  - DOMAIN-SUFFIX,guoshipartners.com
   - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gx-target-experiments-frontend-api.gx.nvidia.com
   - DOMAIN-SUFFIX,h-adashx.ut.alibaba.com
