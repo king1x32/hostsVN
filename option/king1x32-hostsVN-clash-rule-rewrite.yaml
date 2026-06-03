@@ -268,6 +268,7 @@ payload:
   - DOMAIN-SUFFIX,sharefb.cnnd.vn
   - DOMAIN-SUFFIX,shop-cdn.coccoc.com
   - DOMAIN-SUFFIX,slimads.vn
+  - DOMAIN-SUFFIX,smartads.tech
   - DOMAIN-SUFFIX,socialloginplus-apps.haravan.com
   - DOMAIN-SUFFIX,sourcetobin.com
   - DOMAIN-SUFFIX,sponsor.imacdn.com
@@ -2139,6 +2140,7 @@ payload:
   - DOMAIN-SUFFIX,s.trvdp.com
   - DOMAIN-SUFFIX,s.union.360.cn
   - DOMAIN-SUFFIX,sa.api.intl.miui.com
+  - DOMAIN-SUFFIX,saawsedge.com
   - DOMAIN-SUFFIX,sail-horizon.com
   - DOMAIN-SUFFIX,salesmanago.pl
   - DOMAIN-SUFFIX,sam.msn.com
