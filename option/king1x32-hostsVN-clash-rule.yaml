@@ -1012,6 +1012,7 @@ payload:
   - DOMAIN-SUFFIX,bncloudfl.com
   - DOMAIN-SUFFIX,bodis.com
   - DOMAIN-SUFFIX,boffoadsfeeds.com
+  - DOMAIN-SUFFIX,bollywoodmenswear.com
   - DOMAIN-SUFFIX,bookmsg.com
   - DOMAIN-SUFFIX,books-analytics-events.apple.com
   - DOMAIN-SUFFIX,boost-next.co.jp
@@ -1480,6 +1481,7 @@ payload:
   - DOMAIN-SUFFIX,hookspf.com
   - DOMAIN-SUFFIX,hotjar.com
   - DOMAIN-SUFFIX,hotjar.io
+  - DOMAIN-SUFFIX,hotrk0.com
   - DOMAIN-SUFFIX,hprofits.com
   - DOMAIN-SUFFIX,hpyrdr.com
   - DOMAIN-SUFFIX,hs-analytics.net
@@ -1518,6 +1520,7 @@ payload:
   - DOMAIN-SUFFIX,impactradius-event.com
   - DOMAIN-SUFFIX,impactserving.com
   - DOMAIN-SUFFIX,improvedigital.com
+  - DOMAIN-SUFFIX,impseeineclots.com
   - DOMAIN-SUFFIX,imrworldwide.com
   - DOMAIN-SUFFIX,imstks.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
@@ -1874,6 +1877,7 @@ payload:
   - DOMAIN-SUFFIX,nol.yahoo.com
   - DOMAIN-SUFFIX,notes-analytics-events.apple.com
   - DOMAIN-SUFFIX,nr-data.net
+  - DOMAIN-SUFFIX,nresystems.com
   - DOMAIN-SUFFIX,nrich.ai
   - DOMAIN-SUFFIX,ns1p.net
   - DOMAIN-SUFFIX,nsclick.baidu.com
