@@ -1055,6 +1055,7 @@ payload:
   - DOMAIN-SUFFIX,c.sayhi.360.cn
   - DOMAIN-SUFFIX,c2shb.ssp.yahoo.com
   - DOMAIN-SUFFIX,cacafly.net
+  - DOMAIN-SUFFIX,cachegorilla.com
   - DOMAIN-SUFFIX,caclick.baidu.com
   - DOMAIN-SUFFIX,cad.youku.com
   - DOMAIN-SUFFIX,call.inforsea.com
@@ -1993,7 +1994,9 @@ payload:
   - DOMAIN-SUFFIX,popcashjs.b-cdn.net
   - DOMAIN-SUFFIX,popclck.org
   - DOMAIN-SUFFIX,popin.cc
+  - DOMAIN-SUFFIX,popmonetizer.net
   - DOMAIN-SUFFIX,popnc.com
+  - DOMAIN-SUFFIX,poprtb.com
   - DOMAIN-SUFFIX,pops.gg
   - DOMAIN-SUFFIX,popup.msn.com
   - DOMAIN-SUFFIX,popup.popupsmart.com
@@ -2548,8 +2551,11 @@ payload:
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,xlog.tiktokv.com
   - DOMAIN-SUFFIX,xlviirdr.com
+  - DOMAIN-SUFFIX,xmlking.com
   - DOMAIN-SUFFIX,xmlppcbuzz.com
   - DOMAIN-SUFFIX,xmlrtb.com
+  - DOMAIN-SUFFIX,xmlwiz.com
+  - DOMAIN-SUFFIX,xmlwolf.com
   - DOMAIN-SUFFIX,xoom-ads.com
   - DOMAIN-SUFFIX,xtremepush.com
   - DOMAIN-SUFFIX,xxxjmp.com
