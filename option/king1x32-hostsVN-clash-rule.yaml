@@ -1117,6 +1117,8 @@ payload:
   - DOMAIN-SUFFIX,clevertap.com
   - DOMAIN-SUFFIX,click.aliexpress.com
   - DOMAIN-SUFFIX,clickadilla.com
+  - DOMAIN-SUFFIX,clickadu.com
+  - DOMAIN-SUFFIX,clickadu.net
   - DOMAIN-SUFFIX,clickagy.com
   - DOMAIN-SUFFIX,clickcdn.co
   - DOMAIN-SUFFIX,clickcease.com
