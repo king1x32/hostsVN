@@ -2418,6 +2418,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.ai.xiaomi.com
   - DOMAIN-SUFFIX,tracker.idocdn.com
   - DOMAIN-SUFFIX,trackerapi.truste.com
+  - DOMAIN-SUFFIX,trackhup.com
   - DOMAIN-SUFFIX,tracking-3-9f58.trnox.com
   - DOMAIN-SUFFIX,tracking.intl.miui.com
   - DOMAIN-SUFFIX,tracking.miui.com
@@ -2514,6 +2515,7 @@ payload:
   - DOMAIN-SUFFIX,vercel-insights.com
   - DOMAIN-SUFFIX,vi-serve.com
   - DOMAIN-SUFFIX,viadata.store
+  - DOMAIN-SUFFIX,vidcrunch.com
   - DOMAIN-SUFFIX,videoadex.com
   - DOMAIN-SUFFIX,videoads-cloud.rovio.com
   - DOMAIN-SUFFIX,videoads.hotstar.com
