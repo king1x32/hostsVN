@@ -1155,7 +1155,6 @@ payload:
   - DOMAIN-SUFFIX,cloudfront-labs.amazonaws.com
   - DOMAIN-SUFFIX,cloudmobi.net
   - DOMAIN-SUFFIX,cm-exchange.toast.com
-  - DOMAIN-SUFFIX,cmap.alibaba.com
   - DOMAIN-SUFFIX,cnnx.io
   - DOMAIN-SUFFIX,cnt.my
   - DOMAIN-SUFFIX,cnt.trvdp.com
