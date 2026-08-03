@@ -847,7 +847,6 @@ payload:
   - DOMAIN-SUFFIX,anymad.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,ap.cpatrk.net
-  - DOMAIN-SUFFIX,api-*.bidmachine.io
   - DOMAIN-SUFFIX,api-2-0.spot.im
   - DOMAIN-SUFFIX,api-ad-data.kajicam.com
   - DOMAIN-SUFFIX,api-ad.kajicam.com
@@ -1002,6 +1001,7 @@ payload:
   - DOMAIN-SUFFIX,bid.ssp.bance.jp
   - DOMAIN-SUFFIX,bidadx.com
   - DOMAIN-SUFFIX,bidfilter.com
+  - DOMAIN-SUFFIX,bidmachine.io
   - DOMAIN-SUFFIX,bidr.io
   - DOMAIN-SUFFIX,bidswitch.net
   - DOMAIN-SUFFIX,bidtheatre.com
@@ -1022,6 +1022,7 @@ payload:
   - DOMAIN-SUFFIX,blogherads.com
   - DOMAIN-SUFFIX,bls.mdt.qq.com
   - DOMAIN-SUFFIX,blueadss.com
+  - DOMAIN-SUFFIX,blueduckredapple.com
   - DOMAIN-SUFFIX,bluekai.com
   - DOMAIN-SUFFIX,blueseed.tv
   - DOMAIN-SUFFIX,blueserving.com
@@ -1187,6 +1188,7 @@ payload:
   - DOMAIN-SUFFIX,connatix.com
   - DOMAIN-SUFFIX,connect.idocdn.com
   - DOMAIN-SUFFIX,connectad.io
+  - DOMAIN-SUFFIX,consent.easybrain.com
   - DOMAIN-SUFFIX,consumable.com
   - DOMAIN-SUFFIX,content.ad
   - DOMAIN-SUFFIX,contentabc.com
@@ -1214,6 +1216,7 @@ payload:
   - DOMAIN-SUFFIX,creatopy-adtag-production.b-cdn.net
   - DOMAIN-SUFFIX,criteo.com
   - DOMAIN-SUFFIX,criteo.net
+  - DOMAIN-SUFFIX,cross-promo-provider.easybrain.com
   - DOMAIN-SUFFIX,crs-event.line.me
   - DOMAIN-SUFFIX,crs-hometab-event.line.me
   - DOMAIN-SUFFIX,crsspxl.com
@@ -1338,6 +1341,7 @@ payload:
   - DOMAIN-SUFFIX,et.nytimes.com
   - DOMAIN-SUFFIX,ethicalads.io
   - DOMAIN-SUFFIX,etp-prod.com
+  - DOMAIN-SUFFIX,ets.easybrain.com
   - DOMAIN-SUFFIX,eu-1-id5-sync.com
   - DOMAIN-SUFFIX,eve.mdt.qq.com
   - DOMAIN-SUFFIX,event-action.popinfo.jp
@@ -1430,6 +1434,7 @@ payload:
   - DOMAIN-SUFFIX,gameads.io
   - DOMAIN-SUFFIX,gameanalytics.com
   - DOMAIN-SUFFIX,gamesrevenue.com
+  - DOMAIN-SUFFIX,gamestats.easybrain.com
   - DOMAIN-SUFFIX,gamma.cachefly.net
   - DOMAIN-SUFFIX,gaug.es
   - DOMAIN-SUFFIX,gdt.qq.com
@@ -2200,6 +2205,9 @@ payload:
   - DOMAIN-SUFFIX,s.360.cn
   - DOMAIN-SUFFIX,s.trvdp.com
   - DOMAIN-SUFFIX,s.union.360.cn
+  - DOMAIN-SUFFIX,s3-analytics-events.easybrain.com
+  - DOMAIN-SUFFIX,s3-ca-liveops.easybrain.com
+  - DOMAIN-SUFFIX,s3-playable-ads.easybrain.com
   - DOMAIN-SUFFIX,sa.api.intl.miui.com
   - DOMAIN-SUFFIX,saawsedge.com
   - DOMAIN-SUFFIX,sail-horizon.com
@@ -2408,6 +2416,7 @@ payload:
   - DOMAIN-SUFFIX,tenmaxsgads.blob.core.windows.net
   - DOMAIN-SUFFIX,tg.meitu.com
   - DOMAIN-SUFFIX,the-ozone-project.com
+  - DOMAIN-SUFFIX,thecatmachine.com
   - DOMAIN-SUFFIX,themediagrid.com
   - DOMAIN-SUFFIX,themoneytizer.com
   - DOMAIN-SUFFIX,tia.timeinc.net
