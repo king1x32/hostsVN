@@ -1116,7 +1116,9 @@ payload:
   - DOMAIN-SUFFIX,cdnativepush.com
   - DOMAIN-SUFFIX,cdnaz.win
   - DOMAIN-SUFFIX,cdnwidget.com
+  - DOMAIN-SUFFIX,cdp-eu.customer.io
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,cdp.customer.io
   - DOMAIN-SUFFIX,ced-ns.sascdn.com
   - DOMAIN-SUFFIX,ced.sascdn.com
   - DOMAIN-SUFFIX,celtra.com
@@ -1226,7 +1228,6 @@ payload:
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,ctnsnet.com
   - DOMAIN-SUFFIX,customad.cnn.com
-  - DOMAIN-SUFFIX,customer.io
   - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,cxense.com
   - DOMAIN-SUFFIX,czilladx.com
@@ -1976,6 +1977,7 @@ payload:
   - DOMAIN-SUFFIX,optoutadvertising.com
   - DOMAIN-SUFFIX,optvx.com
   - DOMAIN-SUFFIX,orbsrv.com
+  - DOMAIN-SUFFIX,orion.bendingspoons.com
   - DOMAIN-SUFFIX,os-mon.zijieapi.com
   - DOMAIN-SUFFIX,otm-r.com
   - DOMAIN-SUFFIX,otnolatrnup.com
@@ -2445,7 +2447,9 @@ payload:
   - DOMAIN-SUFFIX,tr.ssp.bance.jp
   - DOMAIN-SUFFIX,tr6.snapchat.com
   - DOMAIN-SUFFIX,trace.qq.com
+  - DOMAIN-SUFFIX,track-sdk.customer.io
   - DOMAIN-SUFFIX,track.analytics-data.io
+  - DOMAIN-SUFFIX,track.customer.io
   - DOMAIN-SUFFIX,track.dictionary.com
   - DOMAIN-SUFFIX,track.starmakerstudios.com
   - DOMAIN-SUFFIX,track.thesaurus.com
