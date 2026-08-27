@@ -1209,8 +1209,6 @@ payload:
   - DOMAIN-SUFFIX,cpro.baidustatic.com
   - DOMAIN-SUFFIX,cpx.to
   - DOMAIN-SUFFIX,cquotient.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
   - DOMAIN-SUFFIX,crazyegg.com
   - DOMAIN-SUFFIX,creative.sphdigital.com
   - DOMAIN-SUFFIX,creativecdn.com
@@ -1399,8 +1397,6 @@ payload:
   - DOMAIN-SUFFIX,fiftyt.com
   - DOMAIN-SUFFIX,filament-stats.herokuapp.com
   - DOMAIN-SUFFIX,finallygotthexds.site
-  - DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-  - DOMAIN-SUFFIX,firebaselogging.googleapis.com
   - DOMAIN-SUFFIX,firstimpression.io
   - DOMAIN-SUFFIX,fivecdm.com
   - DOMAIN-SUFFIX,flash.sec.intl.miui.com
