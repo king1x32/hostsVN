@@ -561,6 +561,7 @@ payload:
   - DOMAIN-SUFFIX,adrta.com
   - DOMAIN-SUFFIX,ads*-adnow.com
   - DOMAIN-SUFFIX,ads-adaptv.vidible.tv
+  - DOMAIN-SUFFIX,ads-api-o.api.leiniao.com
   - DOMAIN-SUFFIX,ads-api.tiktok.com
   - DOMAIN-SUFFIX,ads-api.twitter.com
   - DOMAIN-SUFFIX,ads-api.videy.co
@@ -719,6 +720,7 @@ payload:
   - DOMAIN-SUFFIX,advil.waze.com
   - DOMAIN-SUFFIX,advinci.net
   - DOMAIN-SUFFIX,advividnetwork.com
+  - DOMAIN-SUFFIX,advlion.com
   - DOMAIN-SUFFIX,adwmg.com
   - DOMAIN-SUFFIX,adx-exchange.toast.com
   - DOMAIN-SUFFIX,adx-open-service.youku.com
@@ -848,7 +850,6 @@ payload:
   - DOMAIN-SUFFIX,anymad.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,ap.cpatrk.net
-  - DOMAIN-SUFFIX,api-2-0.spot.im
   - DOMAIN-SUFFIX,api-ad-data.kajicam.com
   - DOMAIN-SUFFIX,api-ad.kajicam.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
@@ -919,6 +920,7 @@ payload:
   - DOMAIN-SUFFIX,askingpoint.com
   - DOMAIN-SUFFIX,aso1.net
   - DOMAIN-SUFFIX,assemblyexchange.com
+  - DOMAIN-SUFFIX,assets.connatix.com
   - DOMAIN-SUFFIX,assistads.net
   - DOMAIN-SUFFIX,assoc-amazon.ca
   - DOMAIN-SUFFIX,assoc-amazon.co.uk
@@ -998,6 +1000,7 @@ payload:
   - DOMAIN-SUFFIX,betrad.com
   - DOMAIN-SUFFIX,betweendigital.com
   - DOMAIN-SUFFIX,bfmio.com
+  - DOMAIN-SUFFIX,bi-events-collector.spot.im
   - DOMAIN-SUFFIX,bid.atmtd.com
   - DOMAIN-SUFFIX,bid.ssp.bance.jp
   - DOMAIN-SUFFIX,bidadx.com
@@ -1136,6 +1139,8 @@ payload:
   - DOMAIN-SUFFIX,cint.com
   - DOMAIN-SUFFIX,cintnetworks.com
   - DOMAIN-SUFFIX,cj1*.online
+  - DOMAIN-SUFFIX,ck.connatix.com
+  - DOMAIN-SUFFIX,cks.connatix.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,clarium.global.ssl.fastly.net
   - DOMAIN-SUFFIX,clck.yandex.com
@@ -1192,7 +1197,6 @@ payload:
   - DOMAIN-SUFFIX,config.hiido.com
   - DOMAIN-SUFFIX,config.mobilegamestats.com
   - DOMAIN-SUFFIX,config.sdk.scopely.io
-  - DOMAIN-SUFFIX,connatix.com
   - DOMAIN-SUFFIX,connect.idocdn.com
   - DOMAIN-SUFFIX,connectad.io
   - DOMAIN-SUFFIX,consent.easybrain.com
@@ -1230,6 +1234,7 @@ payload:
   - DOMAIN-SUFFIX,csp.secureserver.net
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,ctnsnet.com
+  - DOMAIN-SUFFIX,ctv-ads.api.leiniao.com
   - DOMAIN-SUFFIX,customad.cnn.com
   - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,cxense.com
@@ -1350,6 +1355,7 @@ payload:
   - DOMAIN-SUFFIX,etp-prod.com
   - DOMAIN-SUFFIX,ets.easybrain.com
   - DOMAIN-SUFFIX,eu-1-id5-sync.com
+  - DOMAIN-SUFFIX,euads-o.api.leiniao.com
   - DOMAIN-SUFFIX,eve.mdt.qq.com
   - DOMAIN-SUFFIX,event-action.popinfo.jp
   - DOMAIN-SUFFIX,event-stream.spot.im
@@ -1404,6 +1410,7 @@ payload:
   - DOMAIN-SUFFIX,fidelity-media.com
   - DOMAIN-SUFFIX,fiftyt.com
   - DOMAIN-SUFFIX,filament-stats.herokuapp.com
+  - DOMAIN-SUFFIX,file-hw-ads-o.api.leiniao.com
   - DOMAIN-SUFFIX,finallygotthexds.site
   - DOMAIN-SUFFIX,firstimpression.io
   - DOMAIN-SUFFIX,fivecdm.com
@@ -1545,6 +1552,7 @@ payload:
   - DOMAIN-SUFFIX,hyperpromote.com
   - DOMAIN-SUFFIX,hz-telemetry.adobe.io
   - DOMAIN-SUFFIX,i-mobile.co.jp
+  - DOMAIN-SUFFIX,i.singular.net
   - DOMAIN-SUFFIX,ia.51.la
   - DOMAIN-SUFFIX,iad-01.braze.com
   - DOMAIN-SUFFIX,iad-02.braze.com
@@ -1593,6 +1601,7 @@ payload:
   - DOMAIN-SUFFIX,innity.net
   - DOMAIN-SUFFIX,innovid.com
   - DOMAIN-SUFFIX,inorbitad.com
+  - DOMAIN-SUFFIX,ins.connatix.com
   - DOMAIN-SUFFIX,insight.ucweb.com
   - DOMAIN-SUFFIX,insightexpressai.com
   - DOMAIN-SUFFIX,insights-collector.newrelic.com
@@ -1679,6 +1688,7 @@ payload:
   - DOMAIN-SUFFIX,linkshare.com
   - DOMAIN-SUFFIX,linksprf.com
   - DOMAIN-SUFFIX,linksynergy.com
+  - DOMAIN-SUFFIX,lit.connatix.com
   - DOMAIN-SUFFIX,litvp.com
   - DOMAIN-SUFFIX,live-ifs.tanx.com
   - DOMAIN-SUFFIX,livetracker.*.pangea-cms.com
@@ -1971,6 +1981,7 @@ payload:
   - DOMAIN-SUFFIX,onscroll.com
   - DOMAIN-SUFFIX,onthe.io
   - DOMAIN-SUFFIX,opehs.tanx.com
+  - DOMAIN-SUFFIX,open-api.spot.im
   - DOMAIN-SUFFIX,openx.com
   - DOMAIN-SUFFIX,openx.net
   - DOMAIN-SUFFIX,openxcdn.net
@@ -2054,6 +2065,7 @@ payload:
   - DOMAIN-SUFFIX,pixelcounter.marca.com
   - DOMAIN-SUFFIX,pixels.spotify.com
   - DOMAIN-SUFFIX,pixfuture.com
+  - DOMAIN-SUFFIX,pl.connatix.com
   - DOMAIN-SUFFIX,platform.tumblr.com
   - DOMAIN-SUFFIX,player.stats.live-video.net
   - DOMAIN-SUFFIX,playstream.media
@@ -2061,6 +2073,7 @@ payload:
   - DOMAIN-SUFFIX,pncloudfl.com
   - DOMAIN-SUFFIX,pocpoc.io
   - DOMAIN-SUFFIX,polarbyte.com
+  - DOMAIN-SUFFIX,pomxd.com
   - DOMAIN-SUFFIX,popads.net
   - DOMAIN-SUFFIX,popcash.net
   - DOMAIN-SUFFIX,popcashjs.b-cdn.net
@@ -2159,6 +2172,7 @@ payload:
   - DOMAIN-SUFFIX,readserver.cachefly.net
   - DOMAIN-SUFFIX,realsrv.com
   - DOMAIN-SUFFIX,realsrvcdn.com
+  - DOMAIN-SUFFIX,recirculation.spot.im
   - DOMAIN-SUFFIX,redintelligence.net
   - DOMAIN-SUFFIX,referrer.disqus.com
   - DOMAIN-SUFFIX,refpa.top
@@ -2218,11 +2232,14 @@ payload:
   - DOMAIN-SUFFIX,s.360.cn
   - DOMAIN-SUFFIX,s.trvdp.com
   - DOMAIN-SUFFIX,s.union.360.cn
+  - DOMAIN-SUFFIX,s2s.singular.net
   - DOMAIN-SUFFIX,s3-analytics-events.easybrain.com
   - DOMAIN-SUFFIX,s3-ca-liveops.easybrain.com
   - DOMAIN-SUFFIX,s3-playable-ads.easybrain.com
   - DOMAIN-SUFFIX,sa.api.intl.miui.com
   - DOMAIN-SUFFIX,saawsedge.com
+  - DOMAIN-SUFFIX,safetrack-s2s.singular.net
+  - DOMAIN-SUFFIX,safetrack.singular.net
   - DOMAIN-SUFFIX,sail-horizon.com
   - DOMAIN-SUFFIX,salesmanago.pl
   - DOMAIN-SUFFIX,sam.msn.com
@@ -2236,6 +2253,7 @@ payload:
   - DOMAIN-SUFFIX,scorchads.com
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,scupio.com
+  - DOMAIN-SUFFIX,sdk-api-v1.singular.net
   - DOMAIN-SUFFIX,sdk-config.tanx.com
   - DOMAIN-SUFFIX,sdk.51.la
   - DOMAIN-SUFFIX,sdk.hansel.io
@@ -2269,13 +2287,15 @@ payload:
   - DOMAIN-SUFFIX,simpleanalytics.io
   - DOMAIN-SUFFIX,simpleanalyticscdn.com
   - DOMAIN-SUFFIX,simpli.fi
-  - DOMAIN-SUFFIX,singular.net
   - DOMAIN-SUFFIX,site24x7rum.eu
   - DOMAIN-SUFFIX,siteimprove.com
   - DOMAIN-SUFFIX,siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,sitescout.com
   - DOMAIN-SUFFIX,siteswithcontent.com
   - DOMAIN-SUFFIX,sjarvis.taobao.com
+  - DOMAIN-SUFFIX,skadnetwork.singular.net
+  - DOMAIN-SUFFIX,skan-s2s.singular.net
+  - DOMAIN-SUFFIX,skan.singular.net
   - DOMAIN-SUFFIX,skcrtxr.com
   - DOMAIN-SUFFIX,skyadsmart.com
   - DOMAIN-SUFFIX,slike.indiatimes.com
@@ -2319,6 +2339,8 @@ payload:
   - DOMAIN-SUFFIX,squeezely.tech
   - DOMAIN-SUFFIX,srtb.msn.com
   - DOMAIN-SUFFIX,srvcs.tumblr.com
+  - DOMAIN-SUFFIX,ssai-ads.api.leiniao.com
+  - DOMAIN-SUFFIX,ssai2-ads.api.leiniao.com
   - DOMAIN-SUFFIX,ssindserving.com
   - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
   - DOMAIN-SUFFIX,sspapi-prd.samsungrs.com
@@ -2390,6 +2412,7 @@ payload:
   - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
   - DOMAIN-SUFFIX,tabmo2018.go2cloud.org
   - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-SUFFIX,taboola.com.cn
   - DOMAIN-SUFFIX,tag.brandcdn.com
   - DOMAIN-SUFFIX,tag.getdrip.com
   - DOMAIN-SUFFIX,tagcommander.com
@@ -2484,7 +2507,6 @@ payload:
   - DOMAIN-SUFFIX,trackpush.com
   - DOMAIN-SUFFIX,tradplusad.com
   - DOMAIN-SUFFIX,traffic-media.co.uk
-  - DOMAIN-SUFFIX,traffic.spot.im
   - DOMAIN-SUFFIX,trafficbass.com
   - DOMAIN-SUFFIX,trafficfactory.biz
   - DOMAIN-SUFFIX,trafficjunky.net
@@ -2603,6 +2625,7 @@ payload:
   - DOMAIN-SUFFIX,wct.link
   - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,web-device-id.banggood.com
+  - DOMAIN-SUFFIX,web-sdk-cdn.singular.net
   - DOMAIN-SUFFIX,webengage.com
   - DOMAIN-SUFFIX,webgains.com
   - DOMAIN-SUFFIX,weborama.fr
