@@ -798,6 +798,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us
   - DOMAIN-SUFFIX,analytics-sg.tiktok.com
   - DOMAIN-SUFFIX,analytics-ttp2.tiktokw.eu
+  - DOMAIN-SUFFIX,analytics.*.adjust.com
   - DOMAIN-SUFFIX,analytics.365scores.com
   - DOMAIN-SUFFIX,analytics.adjust.cn
   - DOMAIN-SUFFIX,analytics.adjust.com
@@ -810,7 +811,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.bigdata.samsung.com
   - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.edgekey.net
-  - DOMAIN-SUFFIX,analytics.eu.adjust.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.ff.avast.com
   - DOMAIN-SUFFIX,analytics.githubassets.com
@@ -2232,6 +2232,7 @@ payload:
   - DOMAIN-SUFFIX,s.360.cn
   - DOMAIN-SUFFIX,s.trvdp.com
   - DOMAIN-SUFFIX,s.union.360.cn
+  - DOMAIN-SUFFIX,s2s.adjust.com
   - DOMAIN-SUFFIX,s2s.singular.net
   - DOMAIN-SUFFIX,s3-analytics-events.easybrain.com
   - DOMAIN-SUFFIX,s3-ca-liveops.easybrain.com
@@ -2600,6 +2601,7 @@ payload:
   - DOMAIN-SUFFIX,videostats.kakao.com
   - DOMAIN-SUFFIX,vidsrev.com
   - DOMAIN-SUFFIX,vidverto.io
+  - DOMAIN-SUFFIX,view.adjust.com
   - DOMAIN-SUFFIX,viewdeos.com
   - DOMAIN-SUFFIX,visit.webhosting.yahoo.com
   - DOMAIN-SUFFIX,vivaclix.com
