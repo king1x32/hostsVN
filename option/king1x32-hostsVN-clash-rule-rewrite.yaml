@@ -410,6 +410,7 @@ payload:
   - DOMAIN-SUFFIX,ace.naver.com
   - DOMAIN-SUFFIX,acertb.com
   - DOMAIN-SUFFIX,acobt.tech
+  - DOMAIN-SUFFIX,acs-mum.alibabachengdun.com
   - DOMAIN-SUFFIX,act.ds.kakao.com
   - DOMAIN-SUFFIX,acuityplatform.com
   - DOMAIN-SUFFIX,ad-brix.com
@@ -785,6 +786,7 @@ payload:
   - DOMAIN-SUFFIX,amdcopen.m.taobao.com
   - DOMAIN-SUFFIX,amgdgt.com
   - DOMAIN-SUFFIX,amntx1.net
+  - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,amung.us
   - DOMAIN-SUFFIX,amxrtb.com
   - DOMAIN-SUFFIX,an.avast.com
@@ -854,24 +856,23 @@ payload:
   - DOMAIN-SUFFIX,api-ad.kajicam.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,api-log-analytics.cloud.toast.com
-  - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,api.applovefrom.com
   - DOMAIN-SUFFIX,api.brs.intl.miui.com
   - DOMAIN-SUFFIX,api.collect.data.intl.miui.com
   - DOMAIN-SUFFIX,api.d.xiaomi.com
-  - DOMAIN-SUFFIX,api.eu.amplitude.com
   - DOMAIN-SUFFIX,api.exc.mob.com
   - DOMAIN-SUFFIX,api.getdrip.com
-  - DOMAIN-SUFFIX,api.lab.amplitude.com
   - DOMAIN-SUFFIX,api.sail-personalize.com
   - DOMAIN-SUFFIX,api.sail-track.com
   - DOMAIN-SUFFIX,api.sec.miui.com
   - DOMAIN-SUFFIX,api.setting.intl.miui.com
   - DOMAIN-SUFFIX,api.share.mob.com
-  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,apiv2.popupsmart.com
+  - DOMAIN-SUFFIX,aplus.alibaba.com
   - DOMAIN-SUFFIX,apm-collector.daumkakao.io
   - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,apmplus.ap-southeast-1.volces.com
+  - DOMAIN-SUFFIX,apmplus.volces.com
   - DOMAIN-SUFFIX,app-adforce.jp
   - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
@@ -893,6 +894,7 @@ payload:
   - DOMAIN-SUFFIX,appier.xyz
   - DOMAIN-SUFFIX,applifier.com
   - DOMAIN-SUFFIX,applog-perf.uc.cn
+  - DOMAIN-SUFFIX,applog.camera360.com
   - DOMAIN-SUFFIX,applog.uc.cn
   - DOMAIN-SUFFIX,applog.zijieapi.com
   - DOMAIN-SUFFIX,applogios.uc.cn
@@ -992,6 +994,7 @@ payload:
   - DOMAIN-SUFFIX,beaverads.com
   - DOMAIN-SUFFIX,bebi.com
   - DOMAIN-SUFFIX,beesads.com
+  - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,bento.agoda.com
   - DOMAIN-SUFFIX,beop.io
   - DOMAIN-SUFFIX,berryessa.stats.live-video.net
@@ -1097,7 +1100,6 @@ payload:
   - DOMAIN-SUFFIX,cchome-stage.adobe.io
   - DOMAIN-SUFFIX,cchome.adobe.io
   - DOMAIN-SUFFIX,ccpa.psg.nexstardigital.net
-  - DOMAIN-SUFFIX,cdn.amplitude.com
   - DOMAIN-SUFFIX,cdn.avantisvideo.com
   - DOMAIN-SUFFIX,cdn.popupsmart.com
   - DOMAIN-SUFFIX,cdn.tanx.com
@@ -1173,6 +1175,7 @@ payload:
   - DOMAIN-SUFFIX,cnt.trvdp.com
   - DOMAIN-SUFFIX,collect-v6.51.la
   - DOMAIN-SUFFIX,collect.banggood.com
+  - DOMAIN-SUFFIX,collect.camera360.com
   - DOMAIN-SUFFIX,collect.data.tm-awx.com
   - DOMAIN-SUFFIX,collect.igodigital.com
   - DOMAIN-SUFFIX,collecticon.outlookmobile.com
@@ -1285,6 +1288,7 @@ payload:
   - DOMAIN-SUFFIX,digitaltarget.ru
   - DOMAIN-SUFFIX,direct-events-collector.spot.im
   - DOMAIN-SUFFIX,directoffers.go2cloud.org
+  - DOMAIN-SUFFIX,dispatcher.camera360.com
   - DOMAIN-SUFFIX,display-ad-*.kgslb.com
   - DOMAIN-SUFFIX,districtm.io
   - DOMAIN-SUFFIX,dit.whatsapp.net
@@ -1448,6 +1452,7 @@ payload:
   - DOMAIN-SUFFIX,gamesrevenue.com
   - DOMAIN-SUFFIX,gamestats.easybrain.com
   - DOMAIN-SUFFIX,gamma.cachefly.net
+  - DOMAIN-SUFFIX,gator.volces.com
   - DOMAIN-SUFFIX,gaug.es
   - DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
@@ -1918,6 +1923,7 @@ payload:
   - DOMAIN-SUFFIX,mssdk.capcutapi.us
   - DOMAIN-SUFFIX,mssdk.tiktokw.eu
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
+  - DOMAIN-SUFFIX,mssdk.volces.com
   - DOMAIN-SUFFIX,mssdk16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mssdk16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,mssdk16-normal.capcutapi.com
@@ -1929,6 +1935,8 @@ payload:
   - DOMAIN-SUFFIX,mtgglobals.com
   - DOMAIN-SUFFIX,mtrace.qq.com
   - DOMAIN-SUFFIX,mtrcs.samba.tv
+  - DOMAIN-SUFFIX,mum.alibabachengdun.com
+  - DOMAIN-SUFFIX,mum.alibabachengdun.net
   - DOMAIN-SUFFIX,mxcdn.net
   - DOMAIN-SUFFIX,mxpnl.com
   - DOMAIN-SUFFIX,mydas.mobi
@@ -2016,6 +2024,10 @@ payload:
   - DOMAIN-SUFFIX,pages-stats.rbl.ms
   - DOMAIN-SUFFIX,pangle-b.io
   - DOMAIN-SUFFIX,pangle.io
+  - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
   - DOMAIN-SUFFIX,pangolin16.sgsnssdk.com
   - DOMAIN-SUFFIX,parkingcrew.net
   - DOMAIN-SUFFIX,parklogic.com
@@ -2046,6 +2058,7 @@ payload:
   - DOMAIN-SUFFIX,persona.ly
   - DOMAIN-SUFFIX,personaclick.com
   - DOMAIN-SUFFIX,petametrics.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,pgmcdn.com
   - DOMAIN-SUFFIX,phonograph2.voxmedia.com
   - DOMAIN-SUFFIX,phywi.org
@@ -2144,6 +2157,7 @@ payload:
   - DOMAIN-SUFFIX,pushcrew.com
   - DOMAIN-SUFFIX,pushid-noneu.truecaller.com
   - DOMAIN-SUFFIX,pushmaster-cdn.xyz
+  - DOMAIN-SUFFIX,pushmsg.camera360.com
   - DOMAIN-SUFFIX,pushwoosh.com
   - DOMAIN-SUFFIX,pvmax.net
   - DOMAIN-SUFFIX,px-eu.dynamicyield.com
@@ -2411,6 +2425,7 @@ payload:
   - DOMAIN-SUFFIX,t13.io
   - DOMAIN-SUFFIX,t2.hulu.com
   - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+  - DOMAIN-SUFFIX,tab.volces.com
   - DOMAIN-SUFFIX,tabmo2018.go2cloud.org
   - DOMAIN-SUFFIX,taboola.com
   - DOMAIN-SUFFIX,taboola.com.cn
@@ -2435,6 +2450,7 @@ payload:
   - DOMAIN-SUFFIX,taxel.jp
   - DOMAIN-SUFFIX,tblog-*.kgslb.com
   - DOMAIN-SUFFIX,tdid.m.qq.com
+  - DOMAIN-SUFFIX,tdum.alibaba.com
   - DOMAIN-SUFFIX,teads.tv
   - DOMAIN-SUFFIX,techlab-cdn.com
   - DOMAIN-SUFFIX,technoratimedia.com
@@ -2551,6 +2567,7 @@ payload:
   - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,umengjmacs.m.taobao.com
+  - DOMAIN-SUFFIX,umlazada.alibaba.com
   - DOMAIN-SUFFIX,unblockia.com
   - DOMAIN-SUFFIX,underdog.media
   - DOMAIN-SUFFIX,undertone.com
@@ -2714,6 +2731,7 @@ payload:
   - DOMAIN-SUFFIX,zergnet.com
   - DOMAIN-SUFFIX,zetadeo.com
   - DOMAIN-SUFFIX,zeusadx.com
+  - DOMAIN-SUFFIX,zhangyuyidong.cn
   - DOMAIN-SUFFIX,zog.link
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zucks.net
