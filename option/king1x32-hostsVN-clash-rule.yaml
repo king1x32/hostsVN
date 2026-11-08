@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,24h-ad.24hstatic.com
   - DOMAIN-SUFFIX,24h-ipad-ad.24hstatic.com
   - DOMAIN-SUFFIX,aanetwork.vn
+  - DOMAIN-SUFFIX,abc3-log.tv360.vn
   - DOMAIN-SUFFIX,ad-us.24hstatic.com
   - DOMAIN-SUFFIX,ad.accesstrade.vn
   - DOMAIN-SUFFIX,ad.org.vn
@@ -119,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,delivery.vtc.vn
   - DOMAIN-SUFFIX,delivery.vtcnew.com.vn
   - DOMAIN-SUFFIX,delivery.vtcnews.vn
+  - DOMAIN-SUFFIX,dev-adtima-static.zdn.vn
   - DOMAIN-SUFFIX,distinctrobin.com
   - DOMAIN-SUFFIX,donglogs.com
   - DOMAIN-SUFFIX,dtadnetwork.com
@@ -200,6 +202,7 @@ payload:
   - DOMAIN-SUFFIX,mepuzz.com
   - DOMAIN-SUFFIX,metaconex.io
   - DOMAIN-SUFFIX,metrics.coccoc.com
+  - DOMAIN-SUFFIX,metrics.meta.vn
   - DOMAIN-SUFFIX,mme.zedcdn.me
   - DOMAIN-SUFFIX,mobilead.vn
   - DOMAIN-SUFFIX,mobio.vn
@@ -304,6 +307,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.api.media.zapps.vn
   - DOMAIN-SUFFIX,tracking.banner.g6.zing.vn
   - DOMAIN-SUFFIX,tracking.hubs.vn
+  - DOMAIN-SUFFIX,tracking.meta.vn
   - DOMAIN-SUFFIX,tracking.playzing.g6.zing.vn
   - DOMAIN-SUFFIX,tracking.tv.zing.vn
   - DOMAIN-SUFFIX,tracking.vnncdn.net
@@ -725,6 +729,7 @@ payload:
   - DOMAIN-SUFFIX,adwmg.com
   - DOMAIN-SUFFIX,adx-exchange.toast.com
   - DOMAIN-SUFFIX,adx-open-service.youku.com
+  - DOMAIN-SUFFIX,adx-track.bluexad.ai
   - DOMAIN-SUFFIX,adx.opera.com
   - DOMAIN-SUFFIX,adx1.com
   - DOMAIN-SUFFIX,adxadserv.com
@@ -811,6 +816,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.agoda.com
   - DOMAIN-SUFFIX,analytics.autodesk.com
   - DOMAIN-SUFFIX,analytics.bigdata.samsung.com
+  - DOMAIN-SUFFIX,analytics.brave.com
   - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.edgekey.net
   - DOMAIN-SUFFIX,analytics.facebook.com
@@ -1005,6 +1011,7 @@ payload:
   - DOMAIN-SUFFIX,bfmio.com
   - DOMAIN-SUFFIX,bi-events-collector.spot.im
   - DOMAIN-SUFFIX,bid.atmtd.com
+  - DOMAIN-SUFFIX,bid.novvy.ai
   - DOMAIN-SUFFIX,bid.ssp.bance.jp
   - DOMAIN-SUFFIX,bidadx.com
   - DOMAIN-SUFFIX,bidfilter.com
@@ -1160,6 +1167,8 @@ payload:
   - DOMAIN-SUFFIX,clickcease.com
   - DOMAIN-SUFFIX,clicktale.net
   - DOMAIN-SUFFIX,clicktripz.com
+  - DOMAIN-SUFFIX,client-logs.gaijin.net
+  - DOMAIN-SUFFIX,client-stats.gaijin.net
   - DOMAIN-SUFFIX,clientlogger.marketplace.aws.a2z.com
   - DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
   - DOMAIN-SUFFIX,clksite.com
@@ -1189,6 +1198,8 @@ payload:
   - DOMAIN-SUFFIX,collector-*.tvsquared.com
   - DOMAIN-SUFFIX,collector-*.us.tvsquared.com
   - DOMAIN-SUFFIX,collector-cdn.github.com
+  - DOMAIN-SUFFIX,collector.bsg.brave.com
+  - DOMAIN-SUFFIX,collector.bsg.bravesoftware.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,collector.githubapp.com
   - DOMAIN-SUFFIX,collector.scopely.io
@@ -1435,6 +1446,7 @@ payload:
   - DOMAIN-SUFFIX,fpjs.io
   - DOMAIN-SUFFIX,fqtag.com
   - DOMAIN-SUFFIX,fra-*.braze.eu
+  - DOMAIN-SUFFIX,fraud.adjoe.zone
   - DOMAIN-SUFFIX,freshmarketer.com
   - DOMAIN-SUFFIX,fs-client-logger.herokuapp.com
   - DOMAIN-SUFFIX,ftd.agency
@@ -2024,6 +2036,7 @@ payload:
   - DOMAIN-SUFFIX,pages-stats.rbl.ms
   - DOMAIN-SUFFIX,pangle-b.io
   - DOMAIN-SUFFIX,pangle.io
+  - DOMAIN-SUFFIX,pangleglobal.com
   - DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
@@ -2121,6 +2134,7 @@ payload:
   - DOMAIN-SUFFIX,prod-collecticon.outlookmobile.com
   - DOMAIN-SUFFIX,prod.*.analytics.console.aws.a2z.com
   - DOMAIN-SUFFIX,prod.*.publishers.advertising.a2z.com
+  - DOMAIN-SUFFIX,prod.adjoe.zone
   - DOMAIN-SUFFIX,prod.otel.kaizen.nvidia.com
   - DOMAIN-SUFFIX,prod.uidapi.com
   - DOMAIN-SUFFIX,promo-*.vercel.app
@@ -2382,12 +2396,17 @@ payload:
   - DOMAIN-SUFFIX,static-doubleclick-net.l.google.com
   - DOMAIN-SUFFIX,static-tracking.klaviyo.com
   - DOMAIN-SUFFIX,static.addtoany.com
+  - DOMAIN-SUFFIX,static.ads.brave.com
+  - DOMAIN-SUFFIX,static.ads.bravesoftware.com
   - DOMAIN-SUFFIX,static.aprod.scopely.io
   - DOMAIN-SUFFIX,staticstuff.net
   - DOMAIN-SUFFIX,statistic.cj.sina.cn
   - DOMAIN-SUFFIX,stats.addtoany.com
   - DOMAIN-SUFFIX,stats.adobe.com
   - DOMAIN-SUFFIX,stats.avast.com
+  - DOMAIN-SUFFIX,stats.brave.com
+  - DOMAIN-SUFFIX,stats.bravesoftware.com
+  - DOMAIN-SUFFIX,stats.bsg.bravesoftware.com
   - DOMAIN-SUFFIX,stats.paypal.com
   - DOMAIN-SUFFIX,stats.shopify.com
   - DOMAIN-SUFFIX,stats.unity3d.com
@@ -2500,6 +2519,7 @@ payload:
   - DOMAIN-SUFFIX,trace.qq.com
   - DOMAIN-SUFFIX,track-sdk.customer.io
   - DOMAIN-SUFFIX,track.analytics-data.io
+  - DOMAIN-SUFFIX,track.bluexad.ai
   - DOMAIN-SUFFIX,track.customer.io
   - DOMAIN-SUFFIX,track.dictionary.com
   - DOMAIN-SUFFIX,track.starmakerstudios.com
@@ -2515,6 +2535,7 @@ payload:
   - DOMAIN-SUFFIX,tracking-3-9f58.trnox.com
   - DOMAIN-SUFFIX,tracking.intl.miui.com
   - DOMAIN-SUFFIX,tracking.miui.com
+  - DOMAIN-SUFFIX,tracking.novvy.ai
   - DOMAIN-SUFFIX,tracking.overwolf.com
   - DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
   - DOMAIN-SUFFIX,tracking.v.tf.360.cn
